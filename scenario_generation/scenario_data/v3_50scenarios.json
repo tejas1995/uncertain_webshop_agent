@@ -1,0 +1,1279 @@
+[
+    {
+        "asin": "B07GRPZD87",
+        "name": "Nutiva Organic Coconut Body Oil, Blissful Grapefruit, 3.4 Ounce | USDA Organic, Non-GMO | Vegan & Cruelty-Free | Natural Nourishment for Skin Hydration, Moisturizer, or Massage",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Body \u203a Moisturizers \u203a Oils",
+        "query": "body makeup",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "body oil",
+        "attributes": [
+            "cruelty free",
+            "long lasting"
+        ],
+        "goal_options": [
+            "3.4-fluid ounce"
+        ],
+        "goal_options_dict": {
+            "size": "3.4-fluid ounce"
+        },
+        "instruction_text": "You are planning a weekend spa getaway and want to bring a body oil that will keep your skin feeling moisturized all day while knowing it aligns with your ethical values.",
+        "attribute_wise_reasoning": "- Cruelty free: You prefer to use products that match your compassion for animals and ethical standards, so you seek out body oil made without animal testing.\n- Long lasting: Since you want your skin to remain smooth and hydrated throughout long, relaxing days, you need a body oil with staying power that won't require frequent reapplication.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty000"
+    },
+    {
+        "asin": "B01J2WKGPK",
+        "name": "Healthcom 15ml White Plastic Deodorant Containers 0.5 Oz New Empty Oval Lip Balm Tubes Empty Deodorant Container for Lipstick Crayon Chapstick DIY Make Your Own Deodorant Moisturizer Lotion Bar,30 Pack",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases",
+        "query": "refillable containers",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "empty deodorant containers",
+        "attributes": [
+            "bpa free",
+            "non toxic",
+            "high quality"
+        ],
+        "goal_options": [
+            "pack 30 pieces"
+        ],
+        "goal_options_dict": {
+            "size": "pack 30 pieces"
+        },
+        "instruction_text": "You run a small business making natural, homemade deodorants to sell at local markets, and you need a bulk order of safe, high-quality empty deodorant containers for your customers.",
+        "attribute_wise_reasoning": "- BPA free: You want to ensure your customers' safety and avoid harmful chemicals leaching into your natural deodorants.\n- Non toxic: Since your products are marketed as natural and safe, you need containers that won't introduce any toxic substances.\n- High quality: To reflect the care and quality of your homemade deodorants, you need containers that are durable and look professional for your business.",
+        "price_upper": 30.0,
+        "scenario_id": "beauty001"
+    },
+    {
+        "asin": "B08MXTT8GD",
+        "name": "GIRO 1PCS Silicone Back Scrubber for Shower with Hook 2021 Update Lengthen 35.4'' Double Side Exfoliating Massage Washer Body Bath Brush With Hook Up,Blue,1PCS",
+        "product_category": "Beauty & Personal Care \u203a Personal Care \u203a Bath & Bathing Accessories \u203a Bathing Accessories \u203a Bath & Body Brushes",
+        "query": "bathing accessories",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "silicone back scrubber",
+        "attributes": [
+            "eco friendly",
+            "non toxic",
+            "easy clean"
+        ],
+        "goal_options": [
+            "35.4 inch"
+        ],
+        "goal_options_dict": {
+            "size": "35.4 inch"
+        },
+        "instruction_text": "You are someone who cares deeply about reducing your plastic waste and ensuring safe, toxin-free products in your self-care routine, and you want a durable back scrubber that's long enough to reach every part of your back and stays hygienic after frequent use.",
+        "attribute_wise_reasoning": "- Eco friendly: You want to reduce plastic waste, so you'll prefer a back scrubber made from sustainable materials.\n- Non toxic: You prioritize safe, toxin-free products for your self-care routine, so a non toxic scrubber is essential.\n- Easy clean: You want a product that stays hygienic after frequent use, so you'll need a scrubber that's easy to clean.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty002"
+    },
+    {
+        "asin": "B09Q65XZ7J",
+        "name": "New Face Care Electric Rechargeable Shaving Razor Tool Nose Hair Trimmer Hair Removal(Single Cutter Head,Blue)",
+        "product_category": "Beauty & Personal Care \u203a Shave & Hair Removal \u203a Men's \u203a Nose & Ear Hair Trimmers",
+        "query": "shave & hair removal",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "nose hair trimmer",
+        "attributes": [
+            "hair removal",
+            "stainless steel",
+            "high quality"
+        ],
+        "goal_options": [
+            "single cutter head"
+        ],
+        "goal_options_dict": {
+            "size": "single cutter head"
+        },
+        "instruction_text": "You are preparing for an important job interview, and you notice stray nose hairs that make you feel self-conscious about your appearance, so you want to buy a nose hair trimmer that will quickly and reliably provide a clean result and lasts for years of regular use.",
+        "attribute_wise_reasoning": "- Hair removal: You want something that efficiently removes nose hairs to ensure you look neat and feel confident during your interview.\n- Stainless steel: You need a trimmer made from a material that is hygienic, easy to clean, and won\u2019t rust from repeated use and rinsing.\n- High quality: For reliability and longevity, you want a nose hair trimmer that works smoothly each time you use it and won\u2019t break or become dull quickly.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty003"
+    },
+    {
+        "asin": "B07CT1HLMN",
+        "name": "Maui Moisture Volcanic Scrub Jar 12 Ounce, Moisturizing Exfoliating Body Scrub Formulated for Dry Skin Normal Skin Combination Skin, with Aloe Vera Juice and Coconut Water, Silicone Free",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Body \u203a Body Scrubs",
+        "query": "scrubs & body treatments",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "body scrub",
+        "attributes": [
+            "aloe vera",
+            "dry skin",
+            "paraben free",
+            "skin care"
+        ],
+        "goal_options": [
+            "exfoliating scrub",
+            "12 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "style": "exfoliating scrub",
+            "size": "12 ounce (pack of 1)"
+        },
+        "instruction_text": "You notice your skin feeling especially rough and flaky after a week of cold, dry weather, and you want a solution that will gently refresh your skin without irritating chemicals, so you decide to buy a body scrub designed for sensitive skin and deep nourishment.",
+        "attribute_wise_reasoning": "- Aloe vera: You want something soothing and hydrating to calm and replenish your skin, making a product with aloe vera a great choice.  \n- Dry skin: Your skin is suffering from dryness and needs intensive moisture and care, so you require a scrub formulated specifically for dry skin.  \n- Paraben free: You are looking to avoid harsh or irritating chemicals as your skin is sensitive, making a paraben free product preferable for peace of mind.  \n- Skin care: You want a solution that fits into your overall skin care routine, so a product focused on skin health is important for you.",
+        "price_upper": 110.0,
+        "scenario_id": "beauty004"
+    },
+    {
+        "asin": "B07CBCJQ8Q",
+        "name": "Kamedis Dermatology Daily Acne Cleanser Treatment with Salicylic Acid (1%) for Oily, Acne-Prone Skin, Foaming-Gel with Proven Botanicals for Breakouts, Pimples, & Inflammation, Made in USA, 3.38 Fl Oz",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Face \u203a Cleansers \u203a Washes",
+        "query": "face care",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "acne face cleanser",
+        "attributes": [
+            "paraben free",
+            "cruelty free",
+            "clinically proven",
+            "natural ingredients"
+        ],
+        "goal_options": [
+            "3.38 fl oz"
+        ],
+        "goal_options_dict": {
+            "size": "3.38 fl oz"
+        },
+        "instruction_text": "You\u2019ve recently started experiencing breakouts and want to find a gentle, effective cleanser for your face before heading off on a week-long trip, but you are concerned about irritation, animal testing, and harsh synthetic chemicals due to your sensitive, eco-conscious lifestyle.",
+        "attribute_wise_reasoning": "- Paraben free: You\u2019re concerned about irritation and harsh chemicals, so you want a cleanser without potentially irritating preservatives like parabens.  \n- Cruelty free: Because you care about animal welfare and avoid products tested on animals, you need a cleanser that is cruelty free.  \n- Clinically proven: You want an effective solution for your breakouts, so you\u2019re looking for a cleanser that is clinically proven to work.  \n- Natural ingredients: Your concern about synthetic chemicals and preference for gentle, safe options due to sensitive skin means a cleanser with natural ingredients is important for you.",
+        "price_upper": 15.0,
+        "scenario_id": "beauty005"
+    },
+    {
+        "asin": "B096TTWL7R",
+        "name": "Pink Makeup Train Bag,10 Inches Make Up Travelling Organizer Bag Hanging Makeup Tool Storage with Mirror, Small",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases \u203a Cosmetic Bags",
+        "query": "mirrors",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "cosmetic bag",
+        "attributes": [
+            "makeup bag",
+            "easy carry",
+            "skin care"
+        ],
+        "goal_options": [
+            "pink",
+            "small:10.2\u00d73.9\u00d79.0 inch"
+        ],
+        "goal_options_dict": {
+            "color": "pink",
+            "size": "small:10.2\u00d73.9\u00d79.0 inch"
+        },
+        "instruction_text": "You have a weekend trip coming up and want to neatly organize your favorite makeup and skincare essentials in a way that will fit inside your carry-on, so you decide to buy a makeup bag designed for easy portability and skin care storage.",
+        "attribute_wise_reasoning": "- makeup bag: You need a dedicated bag to keep your makeup products organized and separate from other items in your luggage.\n- easy carry: You want the bag to be convenient and lightweight, making it simple to bring along without adding bulk to your carry-on or tote.\n- skin care: You have skincare items in addition to makeup, so you need a bag with features or compartments that can accommodate various bottles, jars, and tubes used in your skincare routine.",
+        "price_upper": 30.0,
+        "scenario_id": "beauty006"
+    },
+    {
+        "asin": "B08443XV9W",
+        "name": "GIOVANNI Tea Tree Triple Treat Invigorating Shampoo & Conditioner Set, Cooling Peppermint, Conditioning Rosemary, Eucalyptus, Helps Dry Flaky Scalp, Sulfate Free, Paraben Free, 24 Fl Oz",
+        "product_category": "Beauty & Personal Care \u203a Hair Care \u203a Shampoo & Conditioner \u203a Shampoo & Conditioner Sets",
+        "query": "scalp treatments",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "shampoo and conditioner set",
+        "attributes": [
+            "tea tree",
+            "sulfate free",
+            "cruelty free",
+            "paraben free"
+        ],
+        "goal_options": [
+            "24 fl oz"
+        ],
+        "goal_options_dict": {
+            "size": "24 fl oz"
+        },
+        "instruction_text": "You recently started getting scalp irritation after switching shampoos, and because you have a sensitive scalp, color-treated hair, and follow a vegan lifestyle, you want to buy a tea tree shampoo and conditioner set that fits your ethics and doesn't include harsh chemicals.",
+        "attribute_wise_reasoning": "- Tea tree: You need relief from scalp irritation and want a refreshing, soothing formula, which tea tree oil provides.  \n- Sulfate free: Your color-treated and sensitive hair requires a gentle cleanser, so you need a formula without sulfates to avoid further dryness or fading.  \n- Cruelty free: Since you follow a vegan lifestyle, you are committed to choosing products not tested on animals.  \n- Paraben free: You are concerned about potential health risks and want to avoid unnecessary chemicals in your daily routine.",
+        "price_upper": 110.0,
+        "scenario_id": "beauty007"
+    },
+    {
+        "asin": "B09NSC69GR",
+        "name": "Children's U-shaped Toothbrush, Silicone Toothbrush Baby Soft Brush Head, Massage Whole Mouth Toothbrush with Handle for Kids, Age 1-8",
+        "product_category": "Baby Products \u203a Baby Care \u203a Health \u203a Toothbrushes",
+        "query": "children's dental care",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "children's toothbrush",
+        "attributes": [
+            "teeth whitening",
+            "sensitive teeth",
+            "easy use"
+        ],
+        "goal_options": [
+            "blue",
+            "small(age1-8)"
+        ],
+        "goal_options_dict": {
+            "color": "blue",
+            "size": "small(age1-8)"
+        },
+        "instruction_text": "Your five-year-old child tends to avoid brushing because regular toothbrushes feel harsh on their gums, and you're hoping to encourage good dental habits while addressing some yellowing from frequent juice consumption, so you decide to buy a children's toothbrush that's gentle, helps brighten their smile, and is easy for them to handle on their own.",
+        "attribute_wise_reasoning": "- Teeth whitening: You want to help improve the appearance of your child's teeth, which have started to yellow slightly from frequent juice drinking.  \n- Sensitive teeth: Regular toothbrushes feel harsh on your child's gums, so you need something gentle that won't cause discomfort.  \n- Easy use: Since your child is young and not yet skilled with brushing, you want a toothbrush that's simple for them to hold and use independently.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty008"
+    },
+    {
+        "asin": "B08CXL7JR7",
+        "name": "Sinland Spa Headband For Facial Washing Makeup Cosmetic Shower Soft Women Hair Band 3 Pack",
+        "product_category": "Beauty & Personal Care \u203a Hair Care \u203a Hair Accessories \u203a Headbands",
+        "query": "face makeup",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "spa headband",
+        "attributes": [
+            "high quality",
+            "easy carry",
+            "easy clean",
+            "long lasting"
+        ],
+        "goal_options": [
+            "3.5x25.2 inch (pack of 3)",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "3.5x25.2 inch (pack of 3)",
+            "color": "black"
+        },
+        "instruction_text": "You frequently travel between cities for work, and you enjoy unwinding with DIY facials in various hotels; you want to buy a spa headband that fits your full hairline, is easy to pack, and can be quickly cleaned in your hotel room so you have a fresh one ready anytime.",
+        "attribute_wise_reasoning": "- High quality: You want a spa headband that feels comfortable during your facial routines and doesn't irritate your skin, especially since you use it often.  \n- Easy carry: Since you travel frequently, a spa headband that's lightweight and packs easily fits your on-the-go lifestyle.  \n- Easy clean: You need a spa headband that you can wash easily in a hotel sink or bathroom and have ready to use again the next day.  \n- Long lasting: You use your headbands regularly, so you want a product that holds up over time without losing its effectiveness or shape.",
+        "price_upper": 15.0,
+        "scenario_id": "beauty009"
+    },
+    {
+        "asin": "B09N92JSCP",
+        "name": "Adepoy for Apple Watch Case Series 7 41mm with Tempered Glass Screen Protector, Double Bling Case Crystal Diamonds Rhinestone Bumper Overall Hard PC Ultra-Thin Protective Cover for iWatch 41mm, Clear",
+        "product_category": "Cell Phones & Accessories \u203a Accessories \u203a Smartwatch Accessories \u203a Smartwatch Cases",
+        "query": "wearable technology",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "smartwatch case",
+        "attributes": [
+            "screen protector",
+            "tempered glass",
+            "easy install",
+            "compatible apple"
+        ],
+        "goal_options": [
+            "clear",
+            "41mm"
+        ],
+        "goal_options_dict": {
+            "color": "clear",
+            "size": "41mm"
+        },
+        "instruction_text": "You recently bought a new Apple smartwatch and, since you are always on the go and sometimes bump your wrist against hard surfaces, you want to keep your watch protected without adding extra bulk or changing how it looks, so you decide to buy a smartwatch case designed for your model.",
+        "attribute_wise_reasoning": "- screen protector: You need to guard the screen from scratches and impacts that happen during your busy daily activities.\n- tempered glass: You want strong protection that can absorb shocks and prevent cracks if you accidentally hit or drop your watch.\n- easy install: You prefer a hassle-free setup so you can start using your watch and protection right away, without complicated tools or procedures.\n- compatible apple: You have an Apple smartwatch and want a case that fits perfectly and doesn't interfere with its features or buttons.",
+        "price_upper": 15.0,
+        "scenario_id": "electronics000"
+    },
+    {
+        "asin": "B0924GDGTC",
+        "name": "[6ft, 2-Pack] USB C to USB C Cable, etguuds 60W/3A Fast Charge Type C to Type C Charging Cord Compatible with Samsung Galaxy S21/S21+, S20/S20+ Ultra 5G S10, Note 20 10, Pixel, Switch, Pad & Laptops",
+        "product_category": "Cell Phones & Accessories \u203a Accessories",
+        "query": "chargers",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "USB-C to USB-C charging cable",
+        "attributes": [
+            "fast charging",
+            "high speed",
+            "charging cable"
+        ],
+        "goal_options": [
+            "6ft,6ft"
+        ],
+        "goal_options_dict": {
+            "size": "6ft,6ft"
+        },
+        "instruction_text": "You often work from your living room sofa, charging your laptop as you move around, and you need to quickly top up your device without being tethered to the wall right next to an outlet, so you want to buy a USB-C to USB-C charging cable.",
+        "attribute_wise_reasoning": "- Fast charging: You want to quickly top up your laptop or other USB-C device during short breaks, so a cable that supports fast charging is necessary to minimize downtime.\n- High speed: If you transfer data between devices, or want maximum performance, you need a cable that supports high-speed data transfer.\n- Charging cable: Your primary goal is to charge your device, so a dedicated charging cable that fits USB-C ports is what you should buy.",
+        "price_upper": 10.0,
+        "scenario_id": "electronics001"
+    },
+    {
+        "asin": "B099N9LFGZ",
+        "name": "ALPCAM Outdoor USB Camera Waterproof Day Night Vision Webcam with 24pcs Infrared LEDs,Dome Home Security Camera OV9712 CMOS USB Camera with 3.6mm Lens IR-Cut for Windows Mac Linux Android",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Video Surveillance \u203a Surveillance Cameras \u203a Dome Cameras",
+        "query": "video surveillance",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "dome security camera",
+        "attributes": [
+            "night vision",
+            "heavy duty",
+            "plug play",
+            "high speed"
+        ],
+        "goal_options": [
+            "04h-3.6mm"
+        ],
+        "goal_options_dict": {
+            "size": "04h-3.6mm"
+        },
+        "instruction_text": "You are responsible for security at a busy 24-hour warehouse that has frequent power surges, and you need to quickly install a reliable surveillance camera that can clearly monitor large areas both day and night, capturing fast movement at all hours. You want to buy a dome security camera for your facility.",
+        "attribute_wise_reasoning": "- Night vision: You need to monitor the warehouse during nighttime hours when lighting is minimal, so you require a camera that can capture clear footage in the dark.\n- Heavy duty: The camera must withstand potential impacts, harsh environmental conditions, and power surges common in your warehouse, ensuring long-term reliability.\n- Plug play: Quick installation is crucial since the warehouse is always operational and you can't afford extended downtime, so you need a camera that is easy to set up without professional help.\n- High speed: The warehouse environment involves fast-moving people and packages, so you need a camera that can capture quick motion without missing details.",
+        "price_upper": 50.0,
+        "scenario_id": "electronics002"
+    },
+    {
+        "asin": "B075GKXW6L",
+        "name": "2GB Thumb Drive Bulk Pack of 5 USB 2.0 Flash Drives Value Black Pendrive 2 GB Portable Keychain Zip Drive Metal Memory Stick Multipack Swivel Jump Drive Data Storage as Clients Promotion Item",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Data Storage \u203a USB Flash Drives",
+        "query": "flashes",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "USB flash drives",
+        "attributes": [
+            "car audio",
+            "plug play"
+        ],
+        "goal_options": [
+            "5pcs -2gb"
+        ],
+        "goal_options_dict": {
+            "size": "5pcs -2gb"
+        },
+        "instruction_text": "Your car club is organizing a road trip where each member will bring their favorite playlist to play in various cars with older audio systems, so you want to buy a set of USB flash drives that can easily load and plug into most car stereos for seamless music playback.",
+        "attribute_wise_reasoning": "- car audio: You need drives that are compatible with car stereo systems, ensuring your music can play across all club members' cars.\n- plug play: You want a solution that works quickly and simply without any setup, letting you easily swap and play playlists during the trip.",
+        "price_upper": 15.0,
+        "scenario_id": "electronics003"
+    },
+    {
+        "asin": "B0815D589Z",
+        "name": "3ft (0.9M) 8K High Speed Upto 48Gbps HDMI 2.1 Cable Support 8K@60Hz, 4K@120Hz, 2160P, 1080P, 3 Feet (0.9 Meter), Dolby Vision, Dynamic HDR, HDCP 2.CEC/Edi/3D/UHD/Arc/Ethernet",
+        "product_category": "Electronics \u203a Accessories & Supplies \u203a Audio & Video Accessories \u203a Cables & Interconnects \u203a Video Cables \u203a HDMI Cables",
+        "query": "hdmi cables",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "HDMI cable",
+        "attributes": [
+            "gold plated",
+            "high speed"
+        ],
+        "goal_options": [
+            "3 ft"
+        ],
+        "goal_options_dict": {
+            "size": "3 ft"
+        },
+        "instruction_text": "You have just upgraded your home theater setup with a new 4K Blu-ray player and want to connect it to your TV, which is close by, so you need an HDMI cable that ensures a flawless, ultra-high-definition signal for the best viewing experience.",
+        "attribute_wise_reasoning": "- Gold plated: You want to buy an HDMI cable with gold-plated connectors to ensure optimal signal transmission and reliable, corrosion-resistant connections that maintain the quality of your high-end equipment.\n- High speed: You need a high-speed HDMI cable to handle the large bandwidth necessary for 4K video, high frame rates, and advanced audio formats without any lag or loss in quality.",
+        "price_upper": 10.0,
+        "scenario_id": "electronics004"
+    },
+    {
+        "asin": "B08JCX68VZ",
+        "name": "Corsair Virtuoso RGB Wireless SE Gaming Headset - High-Fidelity 7.1 Surround Sound W/Broadcast Quality Microphone, Memory Foam Earcups, 20 Hour Battery Life, Works w/PC, PS5, PS4 - Espresso",
+        "product_category": "Video Games \u203a PC \u203a Accessories \u203a Headsets",
+        "query": "headphones",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "gaming headset",
+        "attributes": [
+            "wireless bluetooth",
+            "long lasting"
+        ],
+        "goal_options": [
+            "espresso",
+            "special edition"
+        ],
+        "goal_options_dict": {
+            "color": "espresso",
+            "style": "special edition"
+        },
+        "instruction_text": "You often find yourself gaming for hours in different spots around your apartment, sometimes even in your favorite chair by the window, and you hate being tethered by wires or having your play interrupted by frequent charging, so you decide to buy a gaming headset.",
+        "attribute_wise_reasoning": "- Wireless bluetooth: You need the freedom to move around your apartment and game from various locations without being restricted by cables.\n- Long lasting: You often game for extended periods and dislike having to recharge or switch headsets in the middle of your sessions, so you require a headset that can keep up with your gaming marathons.",
+        "price_upper": 230.0,
+        "scenario_id": "electronics005"
+    },
+    {
+        "asin": "B09FJNRCYQ",
+        "name": "Digital Photo Frame Digital Picture Frame kimire 1920X1080 30FPS HD Screen, Adjustable Brightness, Thumb USB Drive and SD Card, Remote Control, Music, Movie, Slideshow, Calendar(10 inch Black)",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Lighting & Studio \u203a Photo Studio \u203a Storage & Presentation Materials \u203a Digital Picture Frames",
+        "query": "remotes",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "digital photo frame",
+        "attributes": [
+            "remote control",
+            "sd card",
+            "high resolution",
+            "plug play"
+        ],
+        "goal_options": [
+            "10 inch"
+        ],
+        "goal_options_dict": {
+            "size": "10 inch"
+        },
+        "instruction_text": "You want to surprise your technologically-challenged grandparents by giving them an easy-to-use digital photo frame so that your whole family can regularly send them new photos, and they can conveniently enjoy crisp images from their favorite chair without having to fuss with complicated setups.",
+        "attribute_wise_reasoning": "- remote control: You want your grandparents to be able to change pictures or settings from the comfort of their chair without getting up.\n- sd card: You want a simple way to regularly add new photos for them by just inserting an SD card.\n- high resolution: You want the photos to be clear and vibrant so your grandparents can easily see every detail.\n- plug play: You want the setup to be effortless for your grandparents, so they don\u2019t have to deal with complex instructions or installations.",
+        "price_upper": 90.0,
+        "scenario_id": "electronics006"
+    },
+    {
+        "asin": "B08C6JXZ2J",
+        "name": "Kodak Step Touch | 13MP Digital Camera & Instant Printer with 3.5 LCD Touchscreen Display, 1080p HD Video - Editing Suite, Bluetooth & Zink Zero Ink Technology | White",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Digital Cameras \u203a Instant Cameras",
+        "query": "digital cameras",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "instant camera",
+        "attributes": [
+            "rechargeable battery",
+            "digital camera"
+        ],
+        "goal_options": [
+            "white"
+        ],
+        "goal_options_dict": {
+            "color": "white"
+        },
+        "instruction_text": "You are planning a weekend trip with friends where you'll be capturing lots of candid moments, but you want a camera that can instantly print photos and also save digital copies for sharing online, without worrying about carrying spare batteries.",
+        "attribute_wise_reasoning": "- Rechargeable battery: You will be out and about all day and don\u2019t want to deal with carrying or buying replacement batteries, so you need a camera that can be recharged as needed.\n- Digital camera: You want to keep digital copies of all your photos for easy online sharing, so your camera must be able to save images digitally.",
+        "price_upper": 120.0,
+        "scenario_id": "electronics007"
+    },
+    {
+        "asin": "B07VF1K65H",
+        "name": "HDMI to VGA, 2 Pack HDMI to VGA Cable (Male to Male) Compatible for Computer, Desktop, Laptop, PC, Monitor, Projector, HDTV, Chromebook, Raspberry Pi, Roku, Xbox and More",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Computer Accessories & Peripherals \u203a Computer Cable Adapters \u203a HDMI-to-VGA Adapters",
+        "query": "xbox",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "HDMI to VGA cable",
+        "attributes": [
+            "blu ray",
+            "tv box",
+            "dvd player",
+            "plug play"
+        ],
+        "goal_options": [
+            "6 feet"
+        ],
+        "goal_options_dict": {
+            "size": "6 feet"
+        },
+        "instruction_text": "You have both an older projector in your conference room and a monitor in your home office that only have VGA ports, and you want to quickly set up your Blu Ray player and TV box between the two locations for movie nights and presentations without needing extra adapters or drivers.",
+        "attribute_wise_reasoning": "- blu ray: You want to directly connect your Blu Ray player to display devices with VGA input, so you need a cable compatible with Blu Ray output.\n- tv box: You also want to use your TV box, so your cable must support connections from these devices as well.\n- dvd player: If you wish to connect your DVD player to a VGA device, the cable must handle this source, making it necessary for your cable to work with DVD players too.\n- plug play: Since you want a hassle-free, quick setup at both locations, a plug and play cable means you won\u2019t need to install any drivers or software.",
+        "price_upper": 25.0,
+        "scenario_id": "electronics008"
+    },
+    {
+        "asin": "B09P68LLKQ",
+        "name": "Mini Desktop PC, BOESIIPC Computer Core i5-11400, Windows 11/Windows 10 Pro 8G DDR4 RAM/256G SSD, 4K, USB, HDMI, Dual WiFi, Bluetooth5.0, COM, LAN",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Computers & Tablets \u203a Desktops \u203a Minis",
+        "query": "pc",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "mini desktop PC",
+        "attributes": [
+            "core i5",
+            "high speed",
+            "high definition",
+            "intel core"
+        ],
+        "goal_options": [
+            "8g+256g"
+        ],
+        "goal_options_dict": {
+            "size": "8g+256g"
+        },
+        "instruction_text": "You work from home in a small apartment and need a compact desktop that can smoothly handle demanding tasks like video calls, document editing, and streaming high-quality videos without lag.",
+        "attribute_wise_reasoning": "- core i5: You need a processor that can easily manage multitasking and handle performance-intensive applications for work and entertainment.\n- high speed: You require a system that operates quickly and efficiently, reducing frustrating delays when switching between tasks or loading large files.\n- high definition: You want clear, crisp visuals for video calls and watching media, so a system supporting high-definition output is essential.\n- intel core: You are looking for a reliable and widely supported processor brand to ensure compatibility and enduring performance for your daily needs.",
+        "price_upper": 120.0,
+        "scenario_id": "electronics009"
+    },
+    {
+        "asin": "B07BCRH1H6",
+        "name": "CafePress Dog Tag Hero Brother Men's Dark Pajamas Pajama Set",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Novelty & More \u203a Clothing \u203a Novelty \u203a Men \u203a Sleep & Lounge \u203a Sets",
+        "query": "men's sleep & lounge",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's pajama set",
+        "attributes": [
+            "tumble dry",
+            "relaxed fit",
+            "wash cold",
+            "machine wash"
+        ],
+        "goal_options": [
+            "medium",
+            "with blue strpe pant"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "with blue strpe pant"
+        },
+        "instruction_text": "You work long hours and value unwinding at home in comfortable pajamas that are easy to care for between wears, especially since you tend to run your laundry on cold settings and prefer to quickly dry everything in the machine.",
+        "attribute_wise_reasoning": "- tumble dry: You prefer drying your clothes quickly and conveniently in a machine rather than air-drying them.\n- relaxed fit: After a long day, you want your pajamas to feel comfortable and not restrictive.\n- wash cold: You typically wash your laundry on cold to save energy or protect your clothes' colors, so your pajamas need to be able to handle that.\n- machine wash: You need pajamas that can easily be cleaned in a washing machine since you rely on that method for all your laundry.",
+        "price_upper": 55.0,
+        "scenario_id": "fashion000"
+    },
+    {
+        "asin": "B09CFV4ZRW",
+        "name": "WHITIN Men\u2019s Arch Support House Slippers | Warm Fuzzy Lining | Indoor Outdoor Sole",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Shoes \u203a Slippers",
+        "query": "men's slippers",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's slippers",
+        "attributes": [
+            "arch support",
+            "house slippers",
+            "rubber outsole",
+            "rubber sole"
+        ],
+        "goal_options": [
+            "8"
+        ],
+        "goal_options_dict": {
+            "size": "8"
+        },
+        "instruction_text": "You often work from home on hardwood floors and need comfortable, supportive footwear you can wear all day inside without slipping when you step out briefly to grab the mail or take out the trash, so you want to buy men's slippers made for indoor use but sturdy enough for quick trips outside.",
+        "attribute_wise_reasoning": "- Arch support: Since you're on your feet for long periods on hard floors, you need slippers that provide proper arch support to prevent foot fatigue and discomfort.\n- House slippers: Because you need footwear suitable for wearing at home and intended primarily for indoor comfort, house slippers are the right choice.\n- Rubber outsole: You sometimes have to step outside briefly, so you'll want slippers with a durable rubber outsole to withstand outdoor surfaces and protect your feet.\n- Rubber sole: To avoid slipping on hardwood floors and provide reliable traction both indoors and out, slippers with a rubber sole are essential.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion001"
+    },
+    {
+        "asin": "B09QRYFBZW",
+        "name": "CRZ YOGA Women's Cotton Sweatpants High Waist Workout Joggers Loose Fit Athletic Lounge Casual Pants with Pockets",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Active \u203a Active Pants",
+        "query": "women's activewear",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's sweatpants",
+        "attributes": [
+            "high waist",
+            "loose fit",
+            "jogger pants",
+            "drawstring closure"
+        ],
+        "goal_options": [
+            "medium",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "black"
+        },
+        "instruction_text": "You\u2019re looking for something comfortable and relaxed to wear to your weekend yoga class and also for lounging at home, and you want an option that can easily be adjusted at the waist for a perfect fit\u2014so you decide to buy a pair of women's sweatpants joggers.",
+        "attribute_wise_reasoning": "- high waist: You want pants that offer extra coverage and support during movement, which helps you feel secure and comfortable whether stretching, lounging, or running errands.  \n- loose fit: You need freedom of movement and breathability, which is essential for yoga and relaxation.  \n- jogger pants: You want a modern style with cuffed ankles, making the pants versatile for both exercise and casual wear.  \n- drawstring closure: You prefer an adjustable waistband so you can customize the fit for comfort no matter your activity.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion002"
+    },
+    {
+        "asin": "B09R3SPBHX",
+        "name": "Mens Cotton Henley Shirts Long Sleeve Button Up Tops Summer Tees Beach Rolled Up Casual Hippie Blouses",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Shirts \u203a Henleys",
+        "query": "men's henleys",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's long sleeve henley shirt",
+        "attributes": [
+            "long sleeve",
+            "slim fit"
+        ],
+        "goal_options": [
+            "white",
+            "large"
+        ],
+        "goal_options_dict": {
+            "color": "white",
+            "size": "large"
+        },
+        "instruction_text": "You\u2019re preparing for a casual Friday at your office, where you want to look put-together but still comfortable, so you decide to buy a men\u2019s long sleeve henley shirt that pairs well with jeans and fits your physique without feeling baggy.",
+        "attribute_wise_reasoning": "- Long sleeve: You want something appropriate for a professional setting that offers a bit of coverage, especially if the office temperature is cooler.\n- Slim fit: You prefer a style that complements your build and avoids a loose, untidy look, making you appear more polished.",
+        "price_upper": 20.0,
+        "scenario_id": "fashion003"
+    },
+    {
+        "asin": "B09NRJHJV5",
+        "name": "GOODTRADE8 Men's Autumn Winter Hooded Multicolor Stitching Pullover Sweater Trendy Jacket",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Novelty & More \u203a Clothing \u203a Novelty \u203a Men",
+        "query": "men's sweaters",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's hooded pullover sweater",
+        "attributes": [
+            "pullover sweater",
+            "long sleeve"
+        ],
+        "goal_options": [
+            "blue",
+            "large"
+        ],
+        "goal_options_dict": {
+            "color": "blue",
+            "size": "large"
+        },
+        "instruction_text": "You\u2019re meeting up with friends for a casual evening out as the weather turns cool, and you want to stay comfortable and look stylish without needing a jacket, so you decide to buy a men's hooded pullover sweater that you can easily slip on and wear all night.",
+        "attribute_wise_reasoning": "- Pullover sweater: You want an easy-to-wear top that you can quickly throw on without dealing with buttons or zippers.\n- Long sleeve: You need coverage and warmth for the cooler evening, so a long-sleeve design is the best choice.",
+        "price_upper": 30.0,
+        "scenario_id": "fashion004"
+    },
+    {
+        "asin": "B089RHXJQ1",
+        "name": "Mippo Womens Hight Waisted Workout Athletic Running Exercise Gym Biker Leggings Shorts",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Active \u203a Active Shorts",
+        "query": "women's shorts",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "biker shorts",
+        "attributes": [
+            "yoga shorts",
+            "workout shorts",
+            "tummy control",
+            "polyester spandex"
+        ],
+        "goal_options": [
+            "medium",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "black"
+        },
+        "instruction_text": "You are preparing for an early morning yoga class followed by a high-intensity spin session at your local gym, and you want to buy biker shorts that will keep you comfortable, supported, and unrestricted throughout both workouts.",
+        "attribute_wise_reasoning": "- Yoga shorts: You want shorts designed for flexibility and comfort during yoga poses and stretching.\n- Workout shorts: You want shorts that can handle intense physical activity and sweat during your spin class.\n- Tummy control: You want a fit that keeps you feeling secure and supported during core-engaging poses and exercises.\n- Polyester spandex: You want a fabric that is stretchy for movement, moisture-wicking for sweat, and retains its shape through multiple activities.",
+        "price_upper": 20.0,
+        "scenario_id": "fashion005"
+    },
+    {
+        "asin": "B09BTRXPZ2",
+        "name": "fitglam Women's Maternity Shorts Over The Belly Quick-Dry Pregnancy Athletic Workout Lounge Running Yoga Shorts",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Maternity \u203a Shorts",
+        "query": "women's shorts",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "maternity shorts",
+        "attributes": [
+            "nylon spandex",
+            "elastic closure",
+            "quick drying",
+            "machine wash"
+        ],
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You are in your second trimester and attending weekly prenatal yoga classes, looking for comfortable shorts that can handle frequent washing and stay fresh after vigorous sessions.",
+        "attribute_wise_reasoning": "- Nylon spandex: You need shorts that move with your changing body and provide flexibility without restraint.  \n- Elastic closure: You want a waistband that can comfortably adjust as your bump grows.  \n- Quick drying: It's important for your shorts to dry rapidly after workouts and washes, so you always have them ready for your next class.  \n- Machine wash: With your active routine, you want shorts that are easy to toss in the wash without special care.",
+        "price_upper": 25.0,
+        "scenario_id": "fashion006"
+    },
+    {
+        "asin": "B0979F3RJ2",
+        "name": "Women\u2019s 2021 Open Toe Ring Leather Comfy Low Chunky Block Square Heels Ankle Strap Summer Party Wedding Pump Heeled Sandals",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Shoes \u203a Sandals \u203a Heeled Sandals",
+        "query": "women's pumps",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "heeled sandals",
+        "attributes": [
+            "sandals women",
+            "ankle strap",
+            "open toe",
+            "wedge sandals"
+        ],
+        "goal_options": [
+            "white",
+            "8"
+        ],
+        "goal_options_dict": {
+            "color": "white",
+            "size": "8"
+        },
+        "instruction_text": "You are attending a summer garden party where you need a stylish and comfortable shoe that allows you to easily walk on grass and complements your light, elegant outfit.",
+        "attribute_wise_reasoning": "- sandals women: You want a shoe designed for women to best match your outfit and fit preferences.  \n- ankle strap: You value security and comfort in your footwear, ensuring your sandals stay in place while you socialize and move about.  \n- open toe: You want to keep your feet cool and show off your pedicure in the warm weather.  \n- wedge sandals: You desire the added height and style that wedges provide, while still having the stability needed for walking on outdoor surfaces like grass.",
+        "price_upper": 30.0,
+        "scenario_id": "fashion007"
+    },
+    {
+        "asin": "B09MQ1TL3S",
+        "name": "Men's Knitted Sweaters Pullover Long Sleeved Slim Fit Sweater Fashion High Collar for Men Sweater",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Sweaters \u203a Pullovers",
+        "query": "men's sweaters",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's pullover sweater",
+        "attributes": [
+            "slim fit",
+            "machine washable",
+            "tumble dry"
+        ],
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You work in a fast-paced office and often head straight to the gym after work, so you need to buy a men's pullover sweater that will look sharp for meetings, fit comfortably under your jacket, and hold up to frequent washing and drying since you don't have time for special care.",
+        "attribute_wise_reasoning": "- Slim fit: You want a sweater that looks professional and streamlined under your work jacket, without appearing bulky.\n- Machine washable: With your busy schedule and regular gym visits, you need clothing that can be quickly washed at home.\n- Tumble dry: You don\u2019t have the time or patience for air-drying or special laundry instructions, so being able to toss the sweater in the dryer saves you effort and helps keep up with your active routine.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion008"
+    },
+    {
+        "asin": "B0991YFQT5",
+        "name": "Kissonic Men's Thermal Sherpa Lined Hoodie Sweatshirt Fleece Athletic Pullover Jacket Coat",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Active \u203a Active Hoodies",
+        "query": "men's fashion hoodies & sweatshirts",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's sherpa lined hoodie",
+        "attributes": [
+            "fleece lined",
+            "regular fit",
+            "daily wear",
+            "machine wash"
+        ],
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You\u2019re getting ready for chilly early-morning walks to work and want something stylish and comfortable you can throw on every day without worrying about special washing instructions, so you decide to buy a men\u2019s sherpa lined hoodie.",
+        "attribute_wise_reasoning": "- Fleece lined: You want extra warmth for cold mornings, so a fleece lined interior will keep you comfortable.  \n- Regular fit: You\u2019re looking for an easy, casual fit that\u2019s not too tight or too loose, so regular fit is ideal for daily wear.  \n- Daily wear: You want a hoodie that can handle frequent use, making a product designed for daily wear suitable.  \n- Machine wash: You don\u2019t want to spend time or money on dry cleaning, so a machine washable hoodie is convenient for your lifestyle.",
+        "price_upper": 50.0,
+        "scenario_id": "fashion009"
+    },
+    {
+        "asin": "B07N8JJWJB",
+        "attributes": [
+            "platform bed",
+            "contemporary style",
+            "queen size",
+            "button tufted"
+        ],
+        "name": "EMMA + OLIVER Queen Size Three Button Tufted Platform Bed in Black Fabric",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Beds, Frames & Bases \u203a Beds",
+        "query": "beds",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "bed frame",
+        "goal_options": [
+            "queen"
+        ],
+        "goal_options_dict": {
+            "size": "queen"
+        },
+        "instruction_text": "You\u2019ve just moved into a new apartment with a minimalist, modern d\u00e9cor and are looking for a sturdy bed that combines both comfortable support and a stylish design to serve as the focal point of your bedroom.",
+        "attribute_wise_reasoning": "- Platform bed: You want a sturdy bed that provides comfortable support without the need for a box spring, making setup easy and keeping your bedroom streamlined.\n- Contemporary style: Your new apartment features minimalist, modern d\u00e9cor, so you\u2019ll want a bed that blends seamlessly with that aesthetic.\n- Button tufted: You\u2019re looking for a bed that serves as a stylish focal point, and a button tufted headboard will give the room an elegant, eye-catching look.",
+        "price_upper": 410.0,
+        "scenario_id": "garden000"
+    },
+    {
+        "asin": "B079VT1GT1",
+        "name": "Kate and Laurel Calter Modern Decorative Framed Beveled Wall Mirror, 25.5x37.5 Black",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Mirrors \u203a Wall-Mounted Mirrors",
+        "query": "cabinets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "wall mirror",
+        "attributes": [
+            "contemporary style",
+            "wall art",
+            "home decor"
+        ],
+        "goal_options": [
+            "black",
+            "25.5x37.5"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "25.5x37.5"
+        },
+        "instruction_text": "You have recently renovated your living room in a sleek, modern design and are looking for a statement piece to hang above your console table\u2014something that will reflect light, make the room look bigger, and complement your aesthetic, so you want to buy a wall mirror that also serves as eye-catching art for your space.",
+        "attribute_wise_reasoning": "- Contemporary style: You want the mirror to match your newly modernized decor, so you need a mirror that reflects current design trends and aesthetics.\n- Wall art: You\u2019re seeking a mirror that doesn\u2019t just serve a functional purpose, but also acts as a statement piece, much like artwork, to elevate your living space.\n- Home decor: The mirror should be suitable for decorating your home and seamlessly blend in as part of your overall interior design strategy, enhancing both style and ambiance.",
+        "price_upper": 110.0,
+        "scenario_id": "garden001"
+    },
+    {
+        "asin": "B08QFNQXZ6",
+        "name": "Bestier 47 Inch Modern Simple Style Portable Table Home Office Engineered Wood Desktop Mount Computer Desk with Storage Bag and Iron Hook, Gray",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Home Office Furniture \u203a Home Office Desks",
+        "query": "desks",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "computer desk",
+        "attributes": [
+            "engineered wood",
+            "metal frame",
+            "home office"
+        ],
+        "goal_options": [
+            "47 inch"
+        ],
+        "goal_options_dict": {
+            "size": "47 inch"
+        },
+        "instruction_text": "You are setting up a compact home office in your apartment and need a sturdy, modern desk that fits your computer, monitor, and office essentials without taking up too much space. You want to buy a computer desk that will last and look good in your workspace.",
+        "attribute_wise_reasoning": "- Engineered wood: You need a desk surface that is durable and easy to clean, suitable for handling daily office tasks while also being stylish enough to complement your decor.\n- Metal frame: You want a desk that feels stable and can support your computer and monitor without wobbling, so a strong metal frame is ideal for reliability.\n- Home office: Since you\u2019re designing a dedicated home office area, you require a desk that is specifically built for efficient home office use, offering enough space and functional design for productivity.",
+        "price_upper": 100.0,
+        "scenario_id": "garden002"
+    },
+    {
+        "asin": "B09D2V9MY3",
+        "name": "Gliwen Black Area Rug for Bedroom,4x6 Feet,Furry Carpet for Living Room,Fluffy Shag Fuzzy Soft Rug for Kids Room,Shaggy Throw Rug for Baby Nursery Room",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Rugs, Pads & Protectors \u203a Area Rugs",
+        "query": "area rugs",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "area rug",
+        "attributes": [
+            "spot clean",
+            "non slip",
+            "high density",
+            "easy clean"
+        ],
+        "goal_options": [
+            "black",
+            "4ftx6ft"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "4ftx6ft"
+        },
+        "instruction_text": "You're a pet owner who just adopted a playful puppy and want to refresh your living room with a sleek, medium-sized area rug that will stay in place despite zoomies, withstand little spills, and be easy to keep tidy.",
+        "attribute_wise_reasoning": "- Spot clean: You need to be able to quickly address any puppy accidents or small messes without washing the entire rug.  \n- Non slip: With your energetic puppy running around, you need a rug that won\u2019t slide and cause slips or mess up the room.  \n- High density: A denser rug will handle heavy foot (and paw) traffic, resist flattening, and look good longer.  \n- Easy clean: You want upkeep to be simple since your puppy might bring in dirt or fur, so frequent, hassle-free cleaning is important.",
+        "price_upper": 45.0,
+        "scenario_id": "garden003"
+    },
+    {
+        "asin": "B097D8WD2J",
+        "name": "KOTEK 3-Tier Nightstand with 2 Baskets and 1 Drawer, Wooden Sofa Side End Table w/Storage Basket & Drawer, Beside Table Accent Table for Living Room Bedroom (1, White)",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Living Room Furniture \u203a Tables \u203a End Tables",
+        "query": "end tables",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "end table",
+        "attributes": [
+            "storage basket",
+            "easy clean"
+        ],
+        "goal_options": [
+            "1",
+            "white"
+        ],
+        "goal_options_dict": {
+            "item package quantity": "1",
+            "color": "white"
+        },
+        "instruction_text": "You live in a small apartment with a playful cat that loves to knock things over, and you need a side table next to your couch where you can stash magazines, remote controls, and the occasional toy, but you also want to make sure spills or pet hair won't be hard to clean up after your cat\u2019s antics. You want to buy an end table that will suit these needs.",
+        "attribute_wise_reasoning": "- Storage basket: You should buy an end table with a storage basket so you have a dedicated spot to quickly tuck away magazines, remotes, or any small items (including your cat\u2019s toys) out of sight and organized, making your living space less cluttered.\n- Easy clean: You should look for an end table that is easy to clean because with your playful cat, spills and pet hair are inevitable, and having a surface that you can quickly wipe down will help you keep your table looking nice without extra hassle.",
+        "price_upper": 100.0,
+        "scenario_id": "garden004"
+    },
+    {
+        "asin": "B09G9816B1",
+        "name": "Q&S Gold Modern Crystal Chandelier Light Fixtures,6-lights Luxury Round Glass Chandelier For Kitchen Island Dining room Living Room Entryway Foyer Stairway",
+        "product_category": "Tools & Home Improvement \u203a Lighting & Ceiling Fans \u203a Ceiling Lights \u203a Chandeliers",
+        "query": "kitchen islands",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "chandelier",
+        "attributes": [
+            "dining room",
+            "kitchen island",
+            "easy install",
+            "living room"
+        ],
+        "goal_options": [
+            "gold and clear",
+            "6-light"
+        ],
+        "goal_options_dict": {
+            "color": "gold and clear",
+            "size": "6-light"
+        },
+        "instruction_text": "You are hosting a housewarming dinner party in your new open-concept home and need an elegant, eye-catching light fixture that will brightly illuminate your kitchen island while also complementing the ambiance in your dining and living areas\u2014all without requiring professional installation.",
+        "attribute_wise_reasoning": "- Dining room: You\u2019ll need a chandelier that provides suitable illumination and style for your dining space.\n- Kitchen island: Your open-concept layout requires the chandelier to function above your kitchen island, offering focused yet stylish lighting.\n- Easy install: You want to set up the new fixture yourself quickly to be ready in time for your party, so easy installation is essential.\n- Living room: The chandelier must be versatile enough in design to look cohesive and inviting in the living room area as well, ensuring a unified aesthetic throughout the connected spaces.",
+        "price_upper": 300.0,
+        "scenario_id": "garden005"
+    },
+    {
+        "asin": "B07NF3VFKK",
+        "name": "Memomad Bali Storage Platform Bed with Drawers (Queen Size, Off White)",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Beds, Frames & Bases \u203a Beds",
+        "query": "beds",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "platform bed",
+        "attributes": [
+            "platform bed",
+            "storage space"
+        ],
+        "goal_options": [
+            "queen"
+        ],
+        "goal_options_dict": {
+            "size": "queen"
+        },
+        "instruction_text": "You\u2019ve recently moved into a compact apartment and need a new bed that can help you maximize your limited space while keeping your room organized. You decide to buy a platform bed with built-in storage to make the most out of every square foot.",
+        "attribute_wise_reasoning": "- Platform bed: You need a bed that doesn\u2019t require a bulky box spring or additional foundation, making it ideal for small spaces, and offering a streamlined look.  \n- Storage space: Since you want to keep your room tidy and have limited space for extra furniture, you benefit from having extra storage under the bed to store clothes, bedding, or other items.",
+        "price_upper": 950.0,
+        "scenario_id": "garden006"
+    },
+    {
+        "asin": "B08SJHRXMH",
+        "name": "TROYANITY Fabric Storage Basket with Decorative Cotton Rope Handles - Collapsible Bins Organizer of Toys, Shelves, Closets, Laundry - Linen Rectangular Boxes (11.8L\u00d77.9W\u00d75.2H inch, Grey)",
+        "product_category": "Home & Kitchen \u203a Storage & Organization \u203a Baskets, Bins & Containers \u203a Open Storage Bins",
+        "query": "baskets and storage",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "storage bin",
+        "attributes": [
+            "space saving",
+            "easy clean",
+            "living room"
+        ],
+        "goal_options": [
+            "small - 1 pack"
+        ],
+        "goal_options_dict": {
+            "size": "small - 1 pack"
+        },
+        "instruction_text": "Your living room coffee table is always cluttered with TV remotes, magazines, and your kid's toys, and every time you try to tidy up, you wish you had a simple way to quickly stash everything out of sight and then wipe down the bin when juice inevitably spills on it. You want to buy a storage bin for your living room to solve this problem.",
+        "attribute_wise_reasoning": "- Space saving: You want to clear up clutter without taking up extra room in your living space, so you need a storage bin that maximizes storage while fitting easily into your existing setup.\n- Easy clean: Since spills and messes frequently happen, being able to easily wipe or wash the bin is important to keep your space hygienic with minimal effort.\n- Living room: You intend to use the bin specifically in your living room, so it should be suitable in style and function for a communal, visible area.",
+        "price_upper": 15.0,
+        "scenario_id": "garden007"
+    },
+    {
+        "asin": "B07MNF62XG",
+        "name": "Anickal Set of 2 Lumbar Beige and White Buffalo Check Plaid Pillow Covers Farmhouse Rustic Decorative Throw Pillow Covers Cushion Case 12x20 Inch for Home Sofa Couch Decor",
+        "product_category": "Home & Kitchen \u203a Bedding \u203a Decorative Pillows, Inserts & Covers \u203a Throw Pillow Covers",
+        "query": "decorative pillows",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "throw pillow covers",
+        "attributes": [
+            "sofa bed",
+            "throw pillow",
+            "living room"
+        ],
+        "goal_options": [
+            "beige and white",
+            "12\"x20\""
+        ],
+        "goal_options_dict": {
+            "color": "beige and white",
+            "size": "12\"x20\""
+        },
+        "instruction_text": "You just bought a new sofa bed for your living room and realize that the decorative pillows you have are too large and don\u2019t match the cozy, neutral aesthetic you want, so you decide to buy throw pillow covers specifically for accent pillows to pull the look together.",
+        "attribute_wise_reasoning": "- Sofa bed: You want your pillows to seamlessly coordinate with your new sofa bed, ensuring everything looks cohesive and intentional in your living space.  \n- Throw pillow: You specifically want to update and accessorize your small accent pillows, making the covers perfect for this use rather than blankets or larger decorative items.  \n- Living room: The covers need to enhance the style and comfort of your primary gathering area, making it inviting for you and your guests.",
+        "price_upper": 15.0,
+        "scenario_id": "garden008"
+    },
+    {
+        "asin": "B08G8FQ84F",
+        "name": "COSTWAY Bar Stools Set of 4, 29-Inch Height Backless Counter Stools with Footrest, Cushioned Seat, Sturdy Rubber Wood Structure, Easy Assembly Saddle Stools for Home Kitchen Living Room, Black+Grey",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Game & Recreation Room Furniture \u203a Home Bar Furniture \u203a Barstools",
+        "query": "bar stools",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "bar stools",
+        "attributes": [
+            "faux leather",
+            "wood frame",
+            "high density",
+            "easy clean"
+        ],
+        "goal_options": [
+            "black+grey",
+            "4"
+        ],
+        "goal_options_dict": {
+            "color": "black+grey",
+            "item package quantity": "4"
+        },
+        "instruction_text": "You have just renovated your kitchen with modern finishes and a neutral color palette, and you're looking to buy a set of bar stools that will provide comfortable seating for your family and be simple to keep looking pristine even with kids around.",
+        "attribute_wise_reasoning": "- Faux leather: You want a surface that doesn't absorb spills and is easy to wipe down, which is perfect for busy families and frequent use.\n- Wood frame: You desire stools that fit the sophistication of your newly renovated, modern kitchen while ensuring durability and warmth in design.\n- High density: You aim for seats that offer firm, lasting comfort during meals and gatherings, even with daily use.\n- Easy clean: With children and regular kitchen activity, you need stools that stay clean with minimal effort, keeping your kitchen stylish and low-maintenance.",
+        "price_upper": 350.0,
+        "scenario_id": "garden009"
+    },
+    {
+        "asin": "B013P7XS62",
+        "attributes": [
+            "non gmo",
+            "nut free",
+            "baked goods",
+            "milk powder"
+        ],
+        "name": "Judee\u2019s Whole Milk Powder 1.5lb (24oz) - 100% Non-GMO, rBST Hormone-Free, Gluten-Free & Nut-Free - Pantry Staple, Baking Ready, Great for Travel, and Reconstituting - Made in USA",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking \u203a Condensed & Powdered Milk \u203a Powdered",
+        "query": "pantry staples",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "powdered milk",
+        "goal_options": [
+            "whole milk",
+            "1.5 pound (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "whole milk",
+            "size": "1.5 pound (pack of 1)"
+        },
+        "instruction_text": "You are a parent baking allergen-safe treats for your child\u2019s school fundraiser, and you need a convenient, shelf-stable way to add milk to your recipes without worrying about tree nut exposure or unwanted additives.",
+        "attribute_wise_reasoning": "- non gmo: You are concerned about unwanted additives, which often implies seeking products without genetically modified ingredients.\n- nut free: The reference to baking allergen-safe treats for a school fundraiser\u2014in particular, the emphasis on nut exposure\u2014leads you to want a nut-free product.\n- baked goods: You are using the product specifically for baking, so you need milk powder suitable for use in baked goods.\n- milk powder: You need a shelf-stable way to add milk to recipes, which points directly to milk powder.",
+        "price_upper": 20.0,
+        "scenario_id": "grocery000"
+    },
+    {
+        "asin": "B08GHTQBWV",
+        "attributes": [
+            "fat free",
+            "non gmo",
+            "gluten free"
+        ],
+        "name": "Woodridge Snacks | Sticky Rice Chips | Sriracha Flavor | 12 Pack | 2.8 Oz. (80g) Bags",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Rice Cakes, Chips & Crackers \u203a Chips",
+        "query": "puffed snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "rice chips",
+        "goal_options": [
+            "sriracha",
+            "12 bags"
+        ],
+        "goal_options_dict": {
+            "flavor name": "sriracha",
+            "size": "12 bags"
+        },
+        "instruction_text": "You are planning a snack table for your weekly book club, where several members have dietary restrictions due to allergies and personal choices, and you want to make sure there\u2019s a crunchy snack everyone can safely enjoy.",
+        "attribute_wise_reasoning": "- Fat free: You want to choose a snack that accommodates guests who are watching their fat intake or managing health conditions, so a fat free option is ideal.  \n- Non GMO: Some of your book club members prefer foods made without genetically modified ingredients, making a non GMO product the right choice.  \n- Gluten free: You know a couple of attendees have gluten sensitivities or celiac disease, so you need a snack that is guaranteed gluten free.",
+        "price_upper": 30.0,
+        "scenario_id": "grocery001"
+    },
+    {
+        "asin": "B07BHTQNN8",
+        "attributes": [
+            "low sugar",
+            "high protein",
+            "birthday cake",
+            "gluten free"
+        ],
+        "name": "Pure Protein Bars, High Protein, Nutritious Snacks to Support Energy, Low Sugar, Gluten Free, Birthday Cake, 1.76 Ounce (Pack of 6)",
+        "product_category": "Health & Household \u203a Diet & Sports Nutrition \u203a Nutrition Bars & Drinks \u203a Nutrition Bars \u203a Protein Bars",
+        "query": "granola & nutrition bars",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "protein bars",
+        "goal_options": [
+            "6 count",
+            "birthday cake"
+        ],
+        "goal_options_dict": {
+            "size": "6 count",
+            "style": "birthday cake"
+        },
+        "instruction_text": "You are planning a surprise treat for your workout group to celebrate a member's birthday, and you want to bring a fun, festive protein snack that everyone\u2014even those avoiding gluten and watching their sugar intake\u2014can enjoy.",
+        "attribute_wise_reasoning": "- Low sugar: You know several people in the group are careful about sugar, so you should choose a snack that won\u2019t spike anyone\u2019s blood sugar.\n- High protein: Since it\u2019s an active group, you want to provide something that will help with recovery after exercise, so a high-protein snack is ideal.\n- Birthday cake: To make it festive and fitting for the occasion, you choose a treat that tastes like birthday cake.\n- Gluten free: Some members of your group have gluten intolerances, so a gluten free option ensures everyone can safely enjoy the snack.",
+        "price_upper": 110.0,
+        "scenario_id": "grocery002"
+    },
+    {
+        "asin": "B088T2M7BB",
+        "name": "Protein Hot Chocolate, Keto Hot Chocolate Mix, Low Carb Hot Cocoa, 15g Protein, 2g Net Carbs, Low in Sugar, Instant Hot Coco, 7 Individual Macro-Controlled Packages (Marshmallow, 3 Pack)",
+        "product_category": "Grocery & Gourmet Food \u203a Beverages \u203a Coffee, Tea & Cocoa \u203a Cocoa",
+        "query": "food & beverage gifts",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "protein hot chocolate mix",
+        "attributes": [
+            "low sugar",
+            "high protein",
+            "low carb"
+        ],
+        "goal_options": [
+            "marshmallow",
+            "0.83 ounce (pack of 21)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "marshmallow",
+            "size": "0.83 ounce (pack of 21)"
+        },
+        "instruction_text": "You\u2019re training for a fitness competition and want a cozy, comforting drink for your evening routine, but it has to fit your strict meal plan while giving you a protein boost without using up your daily carb allowance, so you want to buy a protein hot chocolate mix.",
+        "attribute_wise_reasoning": "- Low sugar: You need to avoid a spike in blood sugar or exceeding your daily sugar intake due to your fitness meal plan.\n- High protein: You want your evening treat to support muscle recovery and contribute to your daily protein target.\n- Low carb: To stick to your meal plan and not go over your carb allowance, you need a treat that's low in carbohydrates.",
+        "price_upper": 45.0,
+        "scenario_id": "grocery003"
+    },
+    {
+        "asin": "B08FHW58SV",
+        "name": "Wang Olive Oil Roasted Seaweed Snack with Green Tea, 0.14 Ounce, Pack of 24\u2026",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Seaweed Snacks",
+        "query": "meat snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "seaweed snack",
+        "attributes": [
+            "low fat",
+            "healthy snack",
+            "dairy free",
+            "gluten free"
+        ],
+        "goal_options": [
+            "green tea",
+            "0.14 ounce (pack of 24)"
+        ],
+        "goal_options_dict": {
+            "flavor": "green tea",
+            "size": "0.14 ounce (pack of 24)"
+        },
+        "instruction_text": "You\u2019re preparing snacks for your book club, and among your friends are several people with dairy intolerances and gluten sensitivities; you want to bring a light, health-conscious option that everyone can enjoy, so you decide to buy a seaweed snack.",
+        "attribute_wise_reasoning": "- Low fat: You want a snack that is light and won\u2019t feel heavy, ideal for a social gathering where people might be looking for something healthy and guilt-free.\n- Healthy snack: You prefer to offer snacks that support everyone\u2019s health goals rather than more processed or sugary substitutes.\n- Dairy free: Some of your friends can\u2019t tolerate dairy, so you need something everyone can eat without worry.\n- Gluten free: With attendees who have gluten sensitivities, a gluten free snack is essential to ensure all your guests are comfortable and included.",
+        "price_upper": 20.0,
+        "scenario_id": "grocery004"
+    },
+    {
+        "asin": "B07TRJPS1B",
+        "name": "Imozai Organic Green Tea Bags 100 Count Individually Wrapped",
+        "product_category": "Grocery & Gourmet Food \u203a Beverages \u203a Coffee, Tea & Cocoa \u203a Tea \u203a Green",
+        "query": "food & beverage gifts",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "green tea bags",
+        "attributes": [
+            "individually wrapped",
+            "certified organic"
+        ],
+        "goal_options": [
+            "green tea bag",
+            "100 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "green tea bag",
+            "size": "100 count (pack of 1)"
+        },
+        "instruction_text": "You often take tea to work and like to keep a stash in your desk, and you are planning to host a small gathering for your friends who prefer organic beverages; you want to buy green tea bags to have enough for everyone and ensure each bag can be conveniently and cleanly shared.",
+        "attribute_wise_reasoning": "- Individually wrapped: You want each tea bag to stay fresh and be easy to bring to work or share with friends without making a mess, so individual wrapping is important for cleanliness and convenience.\n- Certified organic: Since your friends (and you) prefer organic beverages for health or ethical reasons, you want to choose tea that is certified organic to meet those preferences and provide peace of mind about quality.",
+        "price_upper": 10.0,
+        "scenario_id": "grocery005"
+    },
+    {
+        "asin": "B017NWL4EI",
+        "name": "Mamma Chia Organic Vitality Squeeze Snack, Green Magic, 8 Count (Pack of 2) Chia, Fruit and Vegetables with only 70 Calories",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Fruit Snacks",
+        "query": "breakfast foods",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "chia fruit snack",
+        "attributes": [
+            "dietary fiber",
+            "usda organic",
+            "non gmo",
+            "gluten free"
+        ],
+        "goal_options": [
+            "green magic",
+            "3.5 ounce (pack of 16)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "green magic",
+            "size": "3.5 ounce (pack of 16)"
+        },
+        "instruction_text": "You\u2019re preparing healthy after-school snacks for your child\u2019s classroom, and since several kids have dietary restrictions and parents request making sure the snacks are made from wholesome ingredients, you want to buy a chia fruit snack that everyone can safely enjoy.",
+        "attribute_wise_reasoning": "- Dietary fiber: You want the kids to have a nutritious snack that helps support healthy digestion.  \n- USDA organic: You want to be sure the snack is free from synthetic pesticides and chemicals, appealing to parents who are particular about what their children eat.  \n- Non-GMO: Parents are concerned about genetically modified ingredients, so you need a snack that uses only non-GMO ingredients.  \n- Gluten free: Several children have gluten sensitivities, so you must choose something safe for them to eat.",
+        "price_upper": 30.0,
+        "scenario_id": "grocery006"
+    },
+    {
+        "asin": "B015NKPZS8",
+        "name": "Katz Gluten Free Blueberry Muffins | Dairy, Nut, Soy and Gluten Free | Kosher (1 Pack of 4 Muffins, 11 Ounce)",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking \u203a Baking Mixes \u203a Muffins",
+        "query": "breads & bakery",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "muffins",
+        "attributes": [
+            "gluten free",
+            "nut free",
+            "soy free",
+            "dairy free"
+        ],
+        "goal_options": [
+            "blueberry",
+            "11 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "blueberry",
+            "size": "11 ounce (pack of 1)"
+        },
+        "instruction_text": "You are organizing a weekend brunch for friends, several of whom have various food allergies and sensitivities, and you want to serve a delicious treat that everyone can safely enjoy\u2014so you decide to buy a pack of blueberry muffins.",
+        "attribute_wise_reasoning": "- Gluten free: Some of your guests cannot eat gluten, so you need muffins that do not contain gluten.\n- Nut free: You are aware that nut allergies are common among your friends, making it essential to choose muffins without any nuts.\n- Soy free: One of your friends is sensitive to soy, so you want to ensure the muffins do not contain soy ingredients.\n- Dairy free: Some people at the brunch are lactose intolerant or avoid dairy, so you need the muffins to be dairy free.",
+        "price_upper": 105.0,
+        "scenario_id": "grocery007"
+    },
+    {
+        "asin": "B075X534C9",
+        "name": "Bob's Red Mill, Hazelnut Flour, 14 oz",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking \u203a Flours & Meals \u203a Wheat Flours & Meals",
+        "query": "frozen",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "hazelnut flour",
+        "attributes": [
+            "gluten free",
+            "dietary fiber",
+            "grain free",
+            "source vitamin"
+        ],
+        "goal_options": [
+            "14 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "size": "14 ounce (pack of 1)"
+        },
+        "instruction_text": "You are planning to bake a batch of muffins for a family brunch, and your child has celiac disease while your partner is on a grain-free diet and interested in boosting their fiber and vitamin intake, so you want to buy hazelnut flour to use in your recipe.",
+        "attribute_wise_reasoning": "- gluten free: You need a flour option that won't trigger your child's celiac disease.\n- dietary fiber: Your partner is seeking foods that will help increase their daily fiber intake.\n- grain free: Your partner is following a grain-free diet, so you can't use traditional or alternative grain-based flours.\n- source vitamin: You want to support your partner's interest in enhanced vitamin consumption with an ingredient that contributes nutrients.",
+        "price_upper": 25.0,
+        "scenario_id": "grocery008"
+    },
+    {
+        "asin": "B07YZGWT49",
+        "name": "Ooh Snap Nutrition Gluten Free Crispy Protein Bar (Bulk 28 Bars) - Healthy Low Sugar Snack - Double Chocolate Chunk Flavor \u2013 4 Count Box",
+        "product_category": "Health & Household \u203a Diet & Sports Nutrition \u203a Nutrition Bars & Drinks \u203a Nutrition Bars \u203a Protein Bars",
+        "query": "breakfast foods",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "protein bar",
+        "attributes": [
+            "low sugar",
+            "high protein",
+            "gluten free",
+            "healthy snack"
+        ],
+        "goal_options": [
+            "chocolate",
+            "28 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "chocolate",
+            "size": "28 count (pack of 1)"
+        },
+        "instruction_text": "You have recently started a fitness routine to build muscle and you need a convenient snack to take to work every day that fits your dietary restrictions and won\u2019t compromise your health goals, so you want to buy some protein bars.",
+        "attribute_wise_reasoning": "- Low sugar: You want to avoid snacks that contain a lot of sugar so you don't derail your healthy eating habits or spike your blood sugar levels.\n- High protein: Since you are exercising to build muscle, you need a snack that will support muscle recovery and growth, which means looking for a high protein option.\n- Gluten free: You have dietary restrictions that require you to avoid gluten, so your snack must not contain any gluten ingredients.\n- Healthy snack: You are concerned about overall wellness, so you want something that aligns with your health goals rather than typical junk food.",
+        "price_upper": 60.0,
+        "scenario_id": "grocery009"
+    }
+]

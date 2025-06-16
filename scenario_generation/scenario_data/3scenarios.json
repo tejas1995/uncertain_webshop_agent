@@ -1,0 +1,44 @@
+[
+    {
+        "scenario_id": "garden000",
+        "asin": "B088T49TJY",
+        "attributes": ["home office", "computer desk"],
+        "goal_options": ["55.1 inch", "oak | black"],
+        "goal_options_dict": {"color": "oak | black", "size": "55.1 inch"},
+        "name": "SOFSYS Alpha Series 55.1” Computer Desk with Bookshelf Storage, All-in-One Workstation with Long Table Working Surface, Multi-Tiered Shelving for Home Office or Gaming, Oak/Black",
+        "product_category": "Home & Kitchen › Furniture › Home Office Furniture › Home Office Desks",
+        "category": "garden",
+        "query": "desks",
+        "instruction_text": "You are setting up a dedicated workspace in your living room where your computer, monitor, and paperwork all need to fit comfortably, and you want a modern desk that complements both light and dark décor in your home.",
+        "price_upper": 150.0,
+        "weight": 1.0
+    },
+    {
+        "scenario_id": "grocery000",
+        "asin": "B07NDJHPMJ",
+        "attributes": ["high fructose", "low calorie", "gluten free"],
+        "goal_options": ["1 pound (pack of 2)", "medium"],
+        "goal_options_dict": {"size": "1 pound (pack of 2)", "style": "ghost pepper"},
+        "name": "Mrs. Renfros Ghost Pepper Nacho Cheese Dip Gluten-free (16-oz. jars, 2-pack)",
+        "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Salsas, Dips & Spreads › Dips & Spreads › Processed Cheese",
+        "category": "grocery",
+        "query": "deli & prepared foods",
+        "instruction_text": "You’re planning a game night with friends and need a delicious, crowd-pleasing cheese dip that everyone can enjoy, including guests with dietary restrictions and those mindful of portion sizes. Looking for something conveniently packaged and versatile, you want a savory option from the deli section that pairs perfectly with chips and fresh veggies.",
+        "price_upper": 20.0,
+        "weight": 1.0
+    },
+    {
+        "scenario_id": "beauty000",
+        "asin": "B015Z6WHYU",
+        "attributes": ["hair care", "hair styling"],
+        "goal_options": ["flat iron", "1 1 | 2-inch"],
+        "goal_options_dict": {"size": "1 1 | 2-inch", "style": "flat iron"},
+        "name": "Conair Double Ceramic Flat Iron, 1 Inch, White/Rose Gold",
+        "product_category": "Beauty & Personal Care › Hair Care › Styling Tools & Appliances › Irons › Straighteners",
+        "category": "beauty",
+        "query": "styling tools & appliances",
+        "instruction_text": "You are getting ready for a special event and want to quickly achieve sleek, smooth hair with just a few easy passes, even on your thick, shoulder-length locks. Your current tool leaves your hair frizzy and uneven, so you’re looking for something that delivers professional-looking results at home.",
+        "price_upper": 50.0,
+        "weight": 1.0
+    }
+]

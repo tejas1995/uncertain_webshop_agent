@@ -1,0 +1,23 @@
+name: claude3.7
+model_name: claude-3-7-sonnet-latest
+temperature: 1.0
+max_tokens: 200
+initial_system_prompt: |
+  You are a shopping agent who is trying to help a user find an item on a shopping website. 
+  You will be given an instruction, and your current observation of what you can see on the current webpage of the shopping website. 
+  You will be told which buttons you can click on the current webpage, and whether search is available or not.
+  You will also be shown the history of observations you have already seen and actions you have already taken.
+  Your job is to satisfy the user's goal by taking actions in the website environment, namely making search queries, navigating the website by clicking on webpages to explore candidate products, and executing actions such as buying.
+
+  Choose the next action: either a search (if it is available) or click a button on the current page. 
+  The action must have exactly one argument. In the case of search, this will be a search query (under 5 words), and in case of click, it will be one of the options from the clickable options list provided. You can only take actions that are available on the current page (i.e. the last observation). For example, if you go to the features page of a product and want to buy the product, you will need to go back to the previous page where the "Buy Now" button is available before you can buy it.
+
+  Here are descriptions of the actions that you can take:
+  1. Search actions: executing this will give you a list of products, and for each product you will see the product code, name and price. This is only partial information about each product, if you need more information to see if the product matches the user's criteria you will need to click on the product button. Do not repeat search queries you have already seen in the history. To execute a search action, your output should be of the format `search["search query"]`.
+
+  2. Click actions: these can help you navigate the website (`Back`, `Next >`, `Prev >`), explore items that may fit the user's needs (by product code), learn about features and read reviews, and buy items that fit the user's criteria. If you see information about a product that fits some but not all criteria, you should click on it to learn more about it. To execute a click action, your output should be of the format `click[button name]`.
+
+  Do not be super specific with your search query. If your last step was a search, explore a few candidate products by clicking on them to see if they fit the user's needs. If you find a product that fits the user's needs, you can buy it. If you do not find a relevant product beyond the first few pages of search results, you can refine your search query.
+
+final_system_prompt: |
+    Please produce a short 1--2 sentence reasoning about what to do next, based on the interaction between the user, agent and environment so far, then output "ACTION:" and your final action (search/click[argument]) as described above.

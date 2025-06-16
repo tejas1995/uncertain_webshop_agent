@@ -1,0 +1,1227 @@
+[
+    {
+        "asin": "B081W9YZ7K",
+        "attributes": [
+            "cruelty free",
+            "easy clean",
+            "toiletry bag",
+            "quality materials"
+        ],
+        "name": "Leather Shaving Bag for Men, Mens PU Leather Toiletry Bag, Leather Dopp Kit for Men, Toiletry Bag, Mens Travel Toiletry Bag, Hygiene & Grooming Kit Organizer, Cruelty-Free Leather and Hand Stitched Vanity Case",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases \u203a Toiletry Bags",
+        "query": "bags & cases",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "toiletry bag",
+        "goal_options": [
+            "midnight black",
+            "2 - compartment"
+        ],
+        "goal_options_dict": {
+            "color": "midnight black",
+            "style": "2 - compartment"
+        },
+        "instruction_text": "You are preparing for a week-long work trip and want to keep your skincare and hygiene products neatly organized and separated, while also ensuring your purchase aligns with your ethical values and is durable enough to withstand frequent travel. You want to buy a toiletry bag that reflects your commitment to responsible choices and can be quickly wiped clean if there are any spills in your luggage.",
+        "price_upper": 39.99,
+        "scenario_id": "beauty000"
+    },
+    {
+        "asin": "B00J4YYOWI",
+        "attributes": [
+            "paraben free",
+            "oil free",
+            "skin care"
+        ],
+        "name": "St. Ives Fresh Skin Face Scrub Deeply Exfoliates for Smooth, Glowing Skin Apricot Dermatologist Tested, Made with 100% Natural Exfoliants 6 oz",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Face \u203a Polishes & Scrubs \u203a Scrubs",
+        "query": "scrubs & body treatments",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "face scrub",
+        "goal_options": [
+            "apricot",
+            "6 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "scent": "apricot",
+            "size": "6 ounce (pack of 1)"
+        },
+        "instruction_text": "You have combination skin that tends to get oily in the T-zone and you\u2019re searching for a gentle face scrub to add to your daily skincare routine; you want to buy a face scrub that\u2019s safe for sensitive skin and won\u2019t clog your pores.",
+        "price_upper": 120.0,
+        "scenario_id": "beauty001"
+    },
+    {
+        "asin": "B004K0WINI",
+        "attributes": [
+            "shea butter",
+            "dermatologist tested",
+            "dry skin",
+            "body lotion"
+        ],
+        "name": "Burts Bees Butter Body Lotion for Dry Skin with Cocoa & Cupuau, 6 Oz (Package May Vary)",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Body \u203a Moisturizers \u203a Lotions",
+        "query": "body care",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "body lotion",
+        "goal_options": [
+            "cocoa & cupuacu",
+            "6 fl oz (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "scent": "cocoa & cupuacu",
+            "size": "6 fl oz (pack of 1)"
+        },
+        "instruction_text": "You notice your skin feels uncomfortably rough and tight after your morning shower, and because you have sensitive skin, you want to buy a body lotion that you know has been recommended by professionals for daily use on very dry areas.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty002"
+    },
+    {
+        "asin": "B08CHGRS3P",
+        "attributes": [
+            "eye shadow",
+            "long lasting",
+            "eye makeup",
+            "animal testing"
+        ],
+        "name": "RAREKIND Sheer Eyeshadow Compact by Amorepacific - 5 Colors with Magnificent Metallic Glitter - Sparkle Eye Shadow with Velvety Texture - Long Lasting Buildable Eye Makeup with Mirror-New Rules",
+        "product_category": "Beauty & Personal Care \u203a Makeup \u203a Eyes \u203a Eyeshadow",
+        "query": "mirrors",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "eyeshadow compact",
+        "goal_options": [
+            "1.5g",
+            "new rules"
+        ],
+        "goal_options_dict": {
+            "size": "1.5g",
+            "color": "new rules"
+        },
+        "instruction_text": "You are preparing for a full day at work followed by an evening event, and you want to buy an eyeshadow compact that will last without needing touch-ups, while ensuring it aligns with your values regarding how beauty products are made.",
+        "price_upper": 25.0,
+        "scenario_id": "beauty003"
+    },
+    {
+        "asin": "B09KR2VPZ5",
+        "attributes": [
+            "hair growth",
+            "hair scalp",
+            "seed oil",
+            "olive oil"
+        ],
+        "name": "Chebe Butter, Chebe Hair Butter for Hair Growth, Hair Thickening, Chebe Hair Growth Butter, Ayurvedic Hair Butter with Horsetail",
+        "product_category": "Beauty & Personal Care \u203a Hair Care \u203a Shampoo & Conditioner \u203a Conditioners",
+        "query": "hair loss products",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "hair growth butter",
+        "goal_options": [
+            "4 ounce"
+        ],
+        "goal_options_dict": {
+            "size": "4 ounce"
+        },
+        "instruction_text": "You are looking for a natural solution to nourish your scalp and encourage fuller, healthier hair growth, so you decide to buy a hair growth butter that comes in a compact jar, perfect for adding to your self-care routine.",
+        "price_upper": 30.0,
+        "scenario_id": "beauty004"
+    },
+    {
+        "asin": "B0991XW2W2",
+        "attributes": [
+            "toiletry bag",
+            "hair dryer",
+            "cosmetic bag"
+        ],
+        "name": "Large Makeup Bag,BAGSMART Double-Layer Makeup Case with Shoulder Strap Cosmetic Organizer Bag Train Case for Makeup Brushes Palettes Sponge Toiletries,Large,Black",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases \u203a Cosmetic Bags",
+        "query": "makeup palettes",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "makeup bag",
+        "goal_options": [
+            "large"
+        ],
+        "goal_options_dict": {
+            "size": "large"
+        },
+        "instruction_text": "You are preparing for a two-week international trip and need to organize all your beauty essentials, including your favorite skincare products, full makeup routine, and a styling tool, in one convenient place, so you want to buy a makeup bag that can accommodate everything securely for travel.",
+        "price_upper": 30.0,
+        "scenario_id": "beauty005"
+    },
+    {
+        "asin": "B08M61T86G",
+        "attributes": [
+            "bpa free",
+            "eco friendly"
+        ],
+        "name": "4 oz Small Plastic Containers with Lids Plastic Jars with Lids + 20g/20ml Small Containers with Lids (Set of 24) Cosmetic Sample Jar - for Lip Scrub, Body Butters, Cream, Slime, Craft Storage",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Refillable Containers \u203a Jars",
+        "query": "body makeup",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "Plastic cosmetic jars",
+        "goal_options": [
+            "4oz+0.7 ounce"
+        ],
+        "goal_options_dict": {
+            "size": "4oz+0.7 ounce"
+        },
+        "instruction_text": "You are preparing homemade natural face creams as gifts for your friends and need jars to safely store and present your creations, so you look for plastic cosmetic jars that are safe for sensitive skin and won\u2019t harm the environment.",
+        "price_upper": 15.0,
+        "scenario_id": "beauty006"
+    },
+    {
+        "asin": "B09PGK9S7X",
+        "attributes": [
+            "cruelty free",
+            "lip balm",
+            "sensitive skin"
+        ],
+        "name": "Headhunter Coconut Sport Chapstick Sunscreen SPF 30, Natural Mineral Lip Balm For Sun Protection, Waterproof Lip Sunscreen For Ultra Sport Protection and Solar Defense, Reef Safe Sunblock Chap Stick (3 Pack)",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Lip Care \u203a Balms & Moisturizers",
+        "query": "lip care",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "lip balm",
+        "goal_options": [
+            "coconut",
+            "3 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "scent": "coconut",
+            "size": "3 count (pack of 1)"
+        },
+        "instruction_text": "You\u2019re preparing care packages for yourself and your two close friends who all have easily irritated lips, and you want a gentle lip product that aligns with your ethical lifestyle while also coming in a bundle perfect for sharing. You decide to buy lip balm that meets your needs for comfort and peace of mind.",
+        "price_upper": 15.0,
+        "scenario_id": "beauty007"
+    },
+    {
+        "asin": "B004KQF9YW",
+        "attributes": [
+            "anti perspirant",
+            "skin care",
+            "alcohol free"
+        ],
+        "name": "Mitchum Men Triple Odor Defense Anti-Perspirant & Deodorant \u2013 Clean Control \u2013 2.7 Oz. \u2013 3ct (Pack of 3)",
+        "product_category": "Beauty & Personal Care \u203a Personal Care \u203a Deodorants & Antiperspirants \u203a Antiperspirant Deodorant",
+        "query": "deodorants & antiperspirants",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "antiperspirant deodorant",
+        "goal_options": [
+            "2.7 ounce (pack of 3)"
+        ],
+        "goal_options_dict": {
+            "size": "2.7 ounce (pack of 3)"
+        },
+        "instruction_text": "You have sensitive skin and often experience irritation from regular deodorants, so you want to buy a gentle antiperspirant deodorant that comes in a set to keep you stocked up for a few months.",
+        "price_upper": 20.0,
+        "scenario_id": "beauty008"
+    },
+    {
+        "asin": "B08JSH5FKJ",
+        "attributes": [
+            "natural ingredients",
+            "aloe vera"
+        ],
+        "name": "Tio Nacho Aloe Vera Deep Repair Shampoo, 14 Ounce",
+        "product_category": "Beauty & Personal Care \u203a Hair Care \u203a Shampoo & Conditioner \u203a Shampoos",
+        "query": "hair treatment oils",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "aloe vera shampoo",
+        "goal_options": [
+            "14 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "size": "14 ounce (pack of 1)"
+        },
+        "instruction_text": "You have a sensitive scalp that tends to get irritated by harsh chemicals, so you're searching for a gentle shampoo to use daily and decide to buy an aloe vera shampoo in a manageable bottle size.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty009"
+    },
+    {
+        "asin": "B08THLR7B7",
+        "attributes": [
+            "long lasting",
+            "wireless bluetooth"
+        ],
+        "name": "Earbuds Headphones, Slim Bluetooth Headset, Wireless Bluetooth Earpiece V5.0 Hands-Free Earphones with Built-in Mic for Driving Business Office Home (Beans, Button-White-MB12)",
+        "product_category": "Electronics \u203a Headphones \u203a Earbud Headphones",
+        "query": "bluetooth headsets",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "bluetooth earpiece",
+        "goal_options": [
+            "beans"
+        ],
+        "goal_options_dict": {
+            "size": "beans"
+        },
+        "instruction_text": "You are a busy chef who spends hours each day prepping and cooking meals in a bustling kitchen, needing to communicate with suppliers and staff without being tied down by wires or having your hands occupied, so you want to buy a bluetooth earpiece for seamless, all-day connectivity.",
+        "price_upper": 34.99,
+        "scenario_id": "electronics000"
+    },
+    {
+        "asin": "B096X9L6VZ",
+        "attributes": [
+            "security camera",
+            "motion detection"
+        ],
+        "name": "Guaddaole PoE IP Camera Outdoor, 5MP(2560x1920) UltraHD Dome Camera with Microphone, Audio, 98ft IR Night Vision,2.8mm Lens with Motion Detection,IP66 Weatherproof, Ideal for Baby Monitor/ Pet Camera",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Video Surveillance \u203a Surveillance Cameras \u203a Dome Cameras",
+        "query": "lenses",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "dome camera lens",
+        "goal_options": [
+            "5mp"
+        ],
+        "goal_options_dict": {
+            "size": "5mp"
+        },
+        "instruction_text": "You recently opened a small retail shop in a busy area and are concerned about keeping an eye on both customers and employees, so you want to buy a dome camera lens to monitor activity discreetly and ensure peace of mind after hours.",
+        "price_upper": 59.99,
+        "scenario_id": "electronics001"
+    },
+    {
+        "asin": "B08VD6747H",
+        "attributes": [
+            "screen protector",
+            "apple watch",
+            "easy install",
+            "glass screen"
+        ],
+        "name": "Mocodi 4 Pack Apple Watch Case 42mm Series 3/2/1 With Tempered Glass Screen Protector,Ultra-Thin Hard PC Shockproof Bumper Full Scratch-Resistant Protective Cover for Men Women iWatch Accessories",
+        "product_category": "Cell Phones & Accessories \u203a Accessories \u203a Smartwatch Accessories \u203a Smartwatch Screen Protectors",
+        "query": "screen protectors",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "Apple Watch screen protector",
+        "goal_options": [
+            "42 mm"
+        ],
+        "goal_options_dict": {
+            "size": "42 mm"
+        },
+        "instruction_text": "You recently upgraded to the newest generation of a popular smartwatch and want to protect its display from everyday wear while still keeping it looking sleek, so you decide to buy an Apple Watch screen protector that's designed for your model and is easy to put on yourself.",
+        "price_upper": 9.99,
+        "scenario_id": "electronics002"
+    },
+    {
+        "asin": "B07KQ2Q4W1",
+        "attributes": [
+            "high speed",
+            "ipad pro",
+            "usb cable",
+            "samsung galaxy"
+        ],
+        "name": "USB C to USB C 60W Cable, JSAUX[2-Pack 6.6ft] Type C Charger Cord Compatible with Samsung Galaxy S22/S21/S20+ Ultra, Note 20/10 Ultra, MacBook Air/Pro, iPad Pro, iPad Air4, iPad Mini 6, Pixel-Blue",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Computer Accessories & Peripherals \u203a Cables & Accessories \u203a Cables & Interconnects \u203a USB Cables",
+        "query": "chargers",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "USB-C charging cable",
+        "goal_options": [
+            "6.6ft+6.6ft"
+        ],
+        "goal_options_dict": {
+            "size": "6.6ft+6.6ft"
+        },
+        "instruction_text": "You often switch between your iPad Pro and Samsung Galaxy phone while working at your desk and on the couch, so you want to buy a USB-C charging cable bundle that gives you both the reach and the performance you need to charge both devices quickly in different spots around your home.",
+        "price_upper": 15.99,
+        "scenario_id": "electronics003"
+    },
+    {
+        "asin": "B09BJ5WWTR",
+        "attributes": [
+            "apple watch",
+            "stainless steel"
+        ],
+        "name": "Compatible with Apple Watch Bumper Case 44mm, Beautiful Protective Cover Combination with Stainless Steel & Silicone Band, Lightweight Shockproof TPU Protector for iWatch Series 6/5/4/SE, Black",
+        "product_category": "Cell Phones & Accessories \u203a Accessories \u203a Smartwatch Accessories \u203a Smartwatch Cases",
+        "query": "wearable technology",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "Apple Watch bumper case and band",
+        "goal_options": [
+            "44mm",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "44mm",
+            "color": "black"
+        },
+        "instruction_text": "You work in a corporate setting where you frequently attend meetings and formal events, and you want to protect your high-end smartwatch while ensuring it matches your professional wardrobe, so you decide to buy an Apple Watch bumper case and band that combines durability with a sleek, elegant finish.",
+        "price_upper": 14.99,
+        "scenario_id": "electronics004"
+    },
+    {
+        "asin": "B08JCX68VZ",
+        "attributes": [
+            "wireless bluetooth",
+            "long lasting",
+            "gaming headset"
+        ],
+        "name": "Corsair Virtuoso RGB Wireless SE Gaming Headset - High-Fidelity 7.1 Surround Sound W/Broadcast Quality Microphone, Memory Foam Earcups, 20 Hour Battery Life, Works w/PC, PS5, PS4 - Espresso",
+        "product_category": "Video Games \u203a PC \u203a Accessories \u203a Headsets",
+        "query": "headphones",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "wireless gaming headset",
+        "goal_options": [
+            "espresso",
+            "special edition"
+        ],
+        "goal_options_dict": {
+            "color": "espresso",
+            "style": "special edition"
+        },
+        "instruction_text": "You\u2019re an avid gamer who spends hours streaming late-night tournaments with friends and can\u2019t be tethered to your desk, so you want to buy a wireless gaming headset that keeps up with your sessions and compliments your setup.",
+        "price_upper": 249.99,
+        "scenario_id": "electronics005"
+    },
+    {
+        "asin": "B08XB5GZMD",
+        "attributes": [
+            "remote control",
+            "mobile phone",
+            "easy install",
+            "wall mounted"
+        ],
+        "name": "2 Pieces Wall Mount Remote Control Holder Acrylic Placed Flat Media Organizer Storage Box with Acrylic Transparent Glue, No Need to Drill Holes (4.7 x 3.5 x 1.8 Inch, 4.7 x 4 x 2.2 Inch, Clear)",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Living Room Furniture \u203a TV & Media Furniture \u203a Media Storage",
+        "query": "remotes",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "remote control holder",
+        "goal_options": [
+            "4.7 x 3.5 x 1.8 inch, 4.7 x 4 x 2.2 inch"
+        ],
+        "goal_options_dict": {
+            "size": "4.7 x 3.5 x 1.8 inch, 4.7 x 4 x 2.2 inch"
+        },
+        "instruction_text": "You are tired of searching for your remote control and mobile phone every evening in your small living room, so you want to buy a wall-mounted holder that you can easily install next to your couch to keep both items organized and within reach.",
+        "price_upper": 17.99,
+        "scenario_id": "electronics006"
+    },
+    {
+        "asin": "B07ZC5Y3K2",
+        "attributes": [
+            "tv box",
+            "hdmi cable",
+            "blu ray",
+            "gold plated"
+        ],
+        "name": "4K HDMI Cable 1.6 ft High Speed (4K@60Hz, 18Gbps), HDMI 2.0 Cord, Thin HDMI Cable, Low-Profile Gold-Plated Connectors - 4K, 2K, HDR, ARC, 3D, for Gaming Monitor, TV, X-Box, PS5/4/3 (1.6 Feet, Slim)",
+        "product_category": "Electronics \u203a Accessories & Supplies \u203a Audio & Video Accessories \u203a Cables & Interconnects \u203a Video Cables \u203a HDMI Cables",
+        "query": "hdmi cables",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "HDMI cable",
+        "goal_options": [
+            "1.6 feet"
+        ],
+        "goal_options_dict": {
+            "size": "1.6 feet"
+        },
+        "instruction_text": "You just bought a new Blu-ray player and want to connect it to your TV box, but the devices are close together on your entertainment shelf and you want to ensure a strong, reliable signal for the best picture quality, so you decide to buy a gold-plated HDMI cable to easily make the connection.",
+        "price_upper": 10.0,
+        "scenario_id": "electronics007"
+    },
+    {
+        "asin": "B085DPFXPS",
+        "attributes": [
+            "micro usb",
+            "flash drive",
+            "car audio"
+        ],
+        "name": "VANSUNY Micro USB Flash Drive 64G OTG Flash Drive Compatible with Android Smartphone Tablet Micro-USB Dual Memory Stick for Laptop PC Mac Computer Car Audio Projector, Blue",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Data Storage \u203a USB Flash Drives",
+        "query": "cell phones",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "micro USB flash drive",
+        "goal_options": [
+            "64g"
+        ],
+        "goal_options_dict": {
+            "size": "64g"
+        },
+        "instruction_text": "You want to easily bring your favorite music collection to play in your car's stereo system that only accepts certain compact removable drives, and you need enough space to store hundreds of songs without frequently swapping devices, so you decide to buy a micro USB flash drive for this purpose.",
+        "price_upper": 15.0,
+        "scenario_id": "electronics008"
+    },
+    {
+        "asin": "B09929DZFM",
+        "attributes": [
+            "fast charging",
+            "aluminum alloy",
+            "gold plated",
+            "ipad pro"
+        ],
+        "name": "MFI Certified iPhone Charger 10ft Right Angle USB A to Lightning Cable 3 Pack 90 Degree iPhone Charging Durable Nylon Braided Data Fast Charge Cord Compatible with iPhone11/XS/XR/X/8/7/6 (10FT, Black)",
+        "product_category": "Electronics \u203a Computers & Accessories \u203a Computer Accessories & Peripherals \u203a Cables & Accessories \u203a Cables & Interconnects \u203a Lightning Cables",
+        "query": "chargers",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "iPhone charging cable",
+        "goal_options": [
+            "10 ft"
+        ],
+        "goal_options_dict": {
+            "size": "10 ft"
+        },
+        "instruction_text": "You often work on your iPad Pro while lounging on the couch far from the nearest outlet, and your busy schedule means you need to quickly recharge your devices without worrying about wear and tear from frequent plugging and unplugging, so you want to buy an iPhone charging cable designed for performance and durability.",
+        "price_upper": 15.0,
+        "scenario_id": "electronics009"
+    },
+    {
+        "asin": "B09P73WHD1",
+        "attributes": [
+            "heathers cotton",
+            "classic fit"
+        ],
+        "name": "Sarcastic, I May Have A Dirty Mouth, Joke, Family Tank Top",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Novelty & More \u203a Clothing \u203a Novelty \u203a Women \u203a Tops & Tees \u203a Tanks & Camis",
+        "query": "men's tank tops",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's tank top",
+        "goal_options": [
+            "men",
+            "black",
+            "large"
+        ],
+        "goal_options_dict": {
+            "fit type": "men",
+            "color": "black",
+            "size": "large"
+        },
+        "instruction_text": "You\u2019re looking for a comfortable top to wear to your weekend basketball game that can handle both your active moves and relaxed post-game hangouts, so you want to buy a men\u2019s tank top that suits your style and fits just right.",
+        "price_upper": 19.99,
+        "scenario_id": "fashion000"
+    },
+    {
+        "asin": "B09CKX2ZY2",
+        "attributes": [
+            "rubber sole",
+            "non slip",
+            "anti slip"
+        ],
+        "name": "ComeShun Women Low Block Heels Peep Toe Sandals Comfy Slingback Pumps",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Shoes \u203a Sandals \u203a Heeled Sandals",
+        "query": "women's pumps",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's pumps",
+        "goal_options": [
+            "7",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "7",
+            "color": "black"
+        },
+        "instruction_text": "You work in a busy office and walk several blocks each day on rainy city sidewalks, so you want to buy a pair of women's pumps in your size that will keep you steady and comfortable during your commute and workday.",
+        "price_upper": 32.99,
+        "scenario_id": "fashion001"
+    },
+    {
+        "asin": "B08R76M6D7",
+        "attributes": [
+            "high waist",
+            "high heel",
+            "loose fit"
+        ],
+        "name": "PRETTYGARDEN Women\u2019s Leopard Print Shorts Jumpsuit Wrap V Neck 3/4 Sleeve Casual Loose Oversized Romper with Pockets",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Jumpsuits, Rompers & Overalls \u203a Rompers",
+        "query": "women's jumpsuits, rompers & overalls",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's romper",
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You\u2019re planning to attend a trendy rooftop party in the city and want a chic yet comfortable outfit that will make a stylish statement and pair perfectly with your favorite heels, so you decide to buy a women\u2019s romper.",
+        "price_upper": 31.98,
+        "scenario_id": "fashion002"
+    },
+    {
+        "asin": "B07KQ6D52V",
+        "attributes": [
+            "wash cold",
+            "hand wash",
+            "daily wear",
+            "long sleeve"
+        ],
+        "name": "FISACE Women Buffalo Plaid Jacket Vest Hooded Sleeveless Lightweight Anoraks Sherpa Winter Coat Cardigan",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Coats, Jackets & Vests \u203a Vests",
+        "query": "women's coats, jackets & vests",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "Buffalo plaid vest",
+        "goal_options": [
+            "small",
+            "red"
+        ],
+        "goal_options_dict": {
+            "size": "small",
+            "color": "red"
+        },
+        "instruction_text": "You\u2019re a teacher looking for a comfortable and stylish layer to wear throughout your busy school days, and you want something cozy that you can easily care for and throw on over your favorite tops for a pop of color. You decide to buy a buffalo plaid vest to complete your everyday look and make dressing simple.",
+        "price_upper": 50.0,
+        "scenario_id": "fashion003"
+    },
+    {
+        "asin": "B09RWZR5TP",
+        "attributes": [
+            "non slip",
+            "walking shoes",
+            "shoes women",
+            "running shoes"
+        ],
+        "name": "Masbird Sneakers for Women Fashion Breathable Sneakers Walking Shoes Casual Slip On Mesh Running Shoes",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Shoes \u203a Athletic \u203a Walking",
+        "query": "women's loafers & slip-ons",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's walking sneakers",
+        "goal_options": [
+            "purple",
+            "7"
+        ],
+        "goal_options_dict": {
+            "color": "purple",
+            "size": "7"
+        },
+        "instruction_text": "You are preparing for your daily strolls through your neighborhood, which has uneven sidewalks that sometimes get slick in the mornings, and you decide to buy a pair of women\u2019s walking sneakers that you can also use for the occasional jog.",
+        "price_upper": 35.0,
+        "scenario_id": "fashion004"
+    },
+    {
+        "asin": "B095GVRMH3",
+        "attributes": [
+            "long sleeve",
+            "button closure"
+        ],
+        "name": "COOFANDY Men's Long Sleeve Cuban Guayabera Shirt Casual Button Down Cotton Linen Beach Wedding Shirt",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Shirts \u203a Casual Button-Down Shirts",
+        "query": "men's dress shirts",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's guayabera shirt",
+        "goal_options": [
+            "white",
+            "large"
+        ],
+        "goal_options_dict": {
+            "color": "white",
+            "size": "large"
+        },
+        "instruction_text": "You are attending a formal outdoor wedding in a tropical location and want to dress appropriately while staying comfortable and looking stylish, so you decide to buy a men's guayabera shirt to wear with your dress slacks.",
+        "price_upper": 50.0,
+        "scenario_id": "fashion005"
+    },
+    {
+        "asin": "B09DYP9JF8",
+        "attributes": [
+            "zipper pockets",
+            "slim fit",
+            "polyester spandex"
+        ],
+        "name": "OUTSON Mens Joggers Pants Zipper Pockets Sweatpants for Men Casual Athletic Track Pants Slim Fit Tapered Workout Pants",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Active \u203a Active Pants \u203a Sweatpants",
+        "query": "men's pants",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's jogger sweatpants",
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You are a busy college student who frequently commutes by bike to class and needs comfortable, stylish athletic pants that keep your phone secure during rides and allow you to move easily throughout your day; you want to buy a pair of men's jogger sweatpants that will fit your lifestyle needs.",
+        "price_upper": 30.0,
+        "scenario_id": "fashion006"
+    },
+    {
+        "asin": "B098STRFC4",
+        "attributes": [
+            "machine wash",
+            "sleeve shirt",
+            "long sleeve"
+        ],
+        "name": "Lu's Chic Men's Long Sleeve Shirt V Neck Sweatshirt Henley Tops Polyester Cotton Tshirt Tee",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Clothing \u203a Shirts \u203a Henleys",
+        "query": "men's henleys",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's henley shirt",
+        "goal_options": [
+            "medium",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "black"
+        },
+        "instruction_text": "You are preparing for a casual dinner with friends on a cool evening and want a stylish, comfortable shirt that you can easily keep clean, so you decide to buy a men's henley shirt for the occasion.",
+        "price_upper": 30.0,
+        "scenario_id": "fashion007"
+    },
+    {
+        "asin": "B09D6CRP99",
+        "attributes": [
+            "rubber sole",
+            "platform sandals"
+        ],
+        "name": "Men's Memory Foam Slippers with Fuzzy Plush Lining, Slip on House Slippers with Indoor Outdoor Anti-Skid Rubber Sole",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Shoes \u203a Slippers",
+        "query": "men's sandals",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's memory foam slippers",
+        "goal_options": [
+            "brown",
+            "10 wide"
+        ],
+        "goal_options_dict": {
+            "color": "brown",
+            "size": "10 wide"
+        },
+        "instruction_text": "You are looking for a comfortable and supportive pair of sandals to wear around the house and on quick trips outside, and since you have wide feet and prefer neutral colors, you want to buy men's memory foam slippers that feel good all day and match your casual wardrobe.",
+        "price_upper": 120.0,
+        "scenario_id": "fashion008"
+    },
+    {
+        "asin": "B09BFJ46KH",
+        "attributes": [
+            "high waist",
+            "leggings women",
+            "light weight"
+        ],
+        "name": "MorwenVeo Faux Leather Leggings for Women Stretch High Waisted Latex Pants Slit Hem Tights Trousers",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Leggings",
+        "query": "women's pants",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "faux leather leggings",
+        "goal_options": [
+            "style b-black(pu leather)",
+            "small"
+        ],
+        "goal_options_dict": {
+            "color": "style b-black(pu leather)",
+            "size": "small"
+        },
+        "instruction_text": "You are planning a night out with your friends and are looking for a comfortable, figure-flattering wardrobe staple that will pair effortlessly with your favorite oversized sweater and ankle boots, so you want to buy faux leather leggings to complete your chic, trendy outfit.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion009"
+    },
+    {
+        "scenario_id": "garden000",
+        "asin": "B08P68TVGB",
+        "attributes": [
+            "box spring",
+            "bed frame",
+            "platform bed"
+        ],
+        "name": "ZINUS 12 Inch Memory Foam Spring Hybrid Mattress + Curtis Upholstered Platform Bed Frame, Full",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Mattresses & Box Springs \u203a Mattresses",
+        "query": "mattresses",
+        "weight": 1.0,
+        "product_type": "mattress",
+        "goal_options": [
+            "full",
+            "12 inch + curtis platform bed"
+        ],
+        "goal_options_dict": {
+            "size": "full",
+            "style": "12 inch + curtis platform bed"
+        },
+        "instruction_text": "You\u2019ve just moved into your first apartment and need an affordable, supportive bed setup that\u2019s easy to assemble and fits perfectly in your cozy bedroom, so you decide to buy a mattress with an integrated frame that provides solid support and doesn't require extra equipment.",
+        "price_upper": 650.0,
+        "category": "garden"
+    },
+    {
+        "scenario_id": "garden001",
+        "asin": "B088T49TJY",
+        "attributes": [
+            "home office",
+            "computer desk"
+        ],
+        "name": "SOFSYS Alpha Series 55.1\u201d Computer Desk with Bookshelf Storage, All-in-One Workstation with Long Table Working Surface, Multi-Tiered Shelving for Home Office or Gaming, Oak/Black",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Home Office Furniture \u203a Home Office Desks",
+        "query": "desks",
+        "weight": 1.0,
+        "product_type": "computer desk",
+        "goal_options": [
+            "55.1 inch"
+        ],
+        "goal_options_dict": {
+            "size": "55.1 inch"
+        },
+        "instruction_text": "You recently started working from home full-time and need a spacious and sturdy setup to accommodate both your dual monitors and writing materials, so you want to buy a computer desk that will let you organize everything comfortably in one dedicated workspace.",
+        "price_upper": 150.0,
+        "category": "garden"
+    },
+    {
+        "asin": "B0978XWTY4",
+        "attributes": [
+            "eco friendly",
+            "machine washable"
+        ],
+        "name": "Grey Ombre Sheer Curtains Faux Linen - Semi Voile Gradient Sheer Curtain for Bedroom and Living Room Grommet Top,Set of 2 Panels Window Curtains 52\" W\u00d784\" L",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Window Treatments \u203a Curtains & Drapes \u203a Panels",
+        "query": "window coverings",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "sheer curtains",
+        "goal_options": [
+            "grey",
+            "52\"w\u00d784\"l"
+        ],
+        "goal_options_dict": {
+            "color": "grey",
+            "size": "52\"w\u00d784\"l"
+        },
+        "instruction_text": "You are updating your living room to create a soft, airy feel while making sure your home remains in line with your sustainable values, so you want to buy sheer curtains that will be easy to keep clean and fit your window perfectly.",
+        "price_upper": 25.0,
+        "scenario_id": "garden002"
+    },
+    {
+        "asin": "B09733HY3Y",
+        "attributes": [
+            "double sided",
+            "machine washable",
+            "throw blanket"
+        ],
+        "name": "VICSAINTECK Heated Throw Blanket Electric Blanket 50\"x60\" Thicken Cozy Soft ETL Certification with 6 Heating Levels & 3 Auto-Off, Fast Heating Blanket for Couch Bed Sofa",
+        "product_category": "Home & Kitchen \u203a Bedding \u203a Blankets & Throws \u203a Electric Blankets",
+        "query": "throw blankets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "heated throw blanket",
+        "goal_options": [
+            "light gray",
+            "50*60inches"
+        ],
+        "goal_options_dict": {
+            "color": "light gray",
+            "size": "50*60inches"
+        },
+        "instruction_text": "You often get chilly while relaxing on your couch during movie nights and want something cozy, easy to clean, and perfectly sized to keep you warm, so you decide to buy a heated throw blanket to add comfort to your evenings.",
+        "price_upper": 50.0,
+        "scenario_id": "garden003"
+    },
+    {
+        "asin": "B09KT9TKBZ",
+        "attributes": [
+            "easy clean",
+            "dining table"
+        ],
+        "name": "VECELO 5 Piece Kitchen Table Set for Dining Room,Dinette,Breakfast Nook,Industrial Style 4, Retro BRN",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Dining Room Furniture \u203a Table & Chair Sets",
+        "query": "living room sets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "dining table set",
+        "goal_options": [
+            "retro brn",
+            "dining table for 4"
+        ],
+        "goal_options_dict": {
+            "color": "retro brn",
+            "style": "dining table for 4"
+        },
+        "instruction_text": "You have just moved into a cozy apartment with your partner and frequently host dinners with another couple, so you want to buy a dining table set that will fit your space and be quick to tidy up after meals.",
+        "price_upper": 220.0,
+        "scenario_id": "garden004"
+    },
+    {
+        "asin": "B07QML18F2",
+        "attributes": [
+            "stainless steel",
+            "wall mounted",
+            "coat rack"
+        ],
+        "name": "uxcell Wall Mounted Coat Rack,Coat Hooks Rail Stainless Steel Hooks for Coat Hat Towel Purse Key Bag Bathroom Bedroom Entryway, Silver 5 Hooks",
+        "product_category": "Home & Kitchen \u203a Storage & Organization \u203a Home Storage Hooks \u203a Coat Hooks",
+        "query": "coat racks",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "coat rack",
+        "goal_options": [
+            "5 hooks",
+            "silver"
+        ],
+        "goal_options_dict": {
+            "size": "5 hooks",
+            "color": "silver"
+        },
+        "instruction_text": "You recently renovated your entryway with modern fixtures and are looking to buy a coat rack that will blend seamlessly with your decor and fit neatly on the wall near your front door, where it won\u2019t take up any floor space. You want to buy a coat rack that is durable enough for frequent use and matches the sleek, contemporary look of your home.",
+        "price_upper": 25.0,
+        "scenario_id": "garden005"
+    },
+    {
+        "asin": "B086NZYYJW",
+        "attributes": [
+            "easy assemble",
+            "box spring",
+            "bed frame"
+        ],
+        "name": "Bed Frame White Steel Platform Headboard Footboard Foundation Tool Free Assembly No Box Spring Needed (Black, Queen)",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Beds, Frames & Bases \u203a Bed Frames",
+        "query": "bedframes",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "bed frame",
+        "goal_options": [
+            "black",
+            "queen"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "queen"
+        },
+        "instruction_text": "You\u2019ve just moved into your new apartment and need to quickly furnish your bedroom, so you want to buy a bed frame that will support your existing mattress setup and can be put together on your own without any tools or extra help.",
+        "price_upper": 140.0,
+        "scenario_id": "garden006"
+    },
+    {
+        "asin": "B095SLWY12",
+        "attributes": [
+            "steel frame",
+            "living room",
+            "storage shelves",
+            "easy clean"
+        ],
+        "name": "3-Tier Nightstand Side Tables End Tables Set of 2 with Adjustable Mesh Shelves for Living Room Bedroom, Industrial Wood Look Accent Furniture, Stable Steel Frame, Easy Assembly, Rustic Brown and Black",
+        "product_category": "Home & Kitchen \u203a Furniture",
+        "query": "furniture sets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "nightstand set",
+        "goal_options": [
+            "2-pack",
+            "3-tier"
+        ],
+        "goal_options_dict": {
+            "size": "2-pack",
+            "style": "3-tier"
+        },
+        "instruction_text": "You are redecorating your living room and need a sturdy set of nightstands that can neatly hold your ever-growing collection of books and remotes, while also being quick to wipe down after nightly snacks and drinks. You want to buy a nightstand set that can help keep your space organized and stylish without extra fuss.",
+        "price_upper": 70.0,
+        "scenario_id": "garden007"
+    },
+    {
+        "asin": "B09G9YVK7F",
+        "attributes": [
+            "living room",
+            "home office",
+            "easy assemble",
+            "storage space"
+        ],
+        "name": "oneinmil Bookcase, Triple Wide 5-Tier Open Bookcase, Wood and Metal Industrial Bookshelf, Etagere Bookshelves for Home/Office",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Home Office Furniture \u203a Bookcases",
+        "query": "book cases",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "bookcase",
+        "goal_options": [
+            "69.49x11.81x77.95 inches",
+            "rustic brown"
+        ],
+        "goal_options_dict": {
+            "size": "69.49x11.81x77.95 inches",
+            "color": "rustic brown"
+        },
+        "instruction_text": "You recently moved into a spacious apartment and need a stylish yet functional storage solution that fits perfectly along your living room wall and matches your vintage-inspired decor, so you want to buy a bookcase for displaying your favorite books, plants, and office supplies without spending hours assembling it.",
+        "price_upper": 200.0,
+        "scenario_id": "garden008"
+    },
+    {
+        "asin": "B079VT1GT1",
+        "attributes": [
+            "contemporary style",
+            "wall art",
+            "wall mirror"
+        ],
+        "name": "Kate and Laurel Calter Modern Decorative Framed Beveled Wall Mirror, 25.5x37.5 Black",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Mirrors \u203a Wall-Mounted Mirrors",
+        "query": "cabinets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "wall-mounted mirror",
+        "goal_options": [
+            "black",
+            "25.5x37.5"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "25.5x37.5"
+        },
+        "instruction_text": "You are redecorating your modern living room and need a striking yet functional piece to hang above your console table; you decide to buy a wall-mounted mirror that doubles as wall art to complete the sleek look of the space.",
+        "price_upper": 100.0,
+        "scenario_id": "garden009"
+    },
+    {
+        "asin": "B07L4Y413Z",
+        "attributes": [
+            "non gmo",
+            "real fruit"
+        ],
+        "name": "Life's Grape Vine Dried Grapes - Dark Chocolate | Raisins Revamped | Healthy Fruit Snacks for Kids and Adults | Dusted With Rich Cocoa Powder | Sodium Free Kosher Chocolate Snacks | 24 1oz Packs",
+        "product_category": "Grocery & Gourmet Food \u203a Produce \u203a Dried Fruits & Vegetables \u203a Dried Fruits \u203a Raisins",
+        "query": "dried fruits & raisins",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "chocolate covered raisins",
+        "goal_options": [
+            "dark chocolate",
+            "0.8 ounce (pack of 24)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "dark chocolate",
+            "size": "0.8 ounce (pack of 24)"
+        },
+        "instruction_text": "You are packing healthy, portion-controlled treats for your weekly family movie night at home, and you want something indulgent and fruity that everyone\u2014including your health-conscious sibling and your child with food sensitivities\u2014can safely enjoy. You decide to buy chocolate covered raisins snacks that are made with real fruit and meet your family's dietary preferences.",
+        "price_upper": 34.99,
+        "scenario_id": "grocery000"
+    },
+    {
+        "asin": "B08GHTQBWV",
+        "attributes": [
+            "non gmo",
+            "gluten free",
+            "simple ingredients"
+        ],
+        "name": "Woodridge Snacks | Sticky Rice Chips | Sriracha Flavor | 12 Pack | 2.8 Oz. (80g) Bags",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Rice Cakes, Chips & Crackers \u203a Chips",
+        "query": "puffed snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "puffed rice chips",
+        "goal_options": [
+            "sriracha",
+            "12 bags"
+        ],
+        "goal_options_dict": {
+            "flavor name": "sriracha",
+            "size": "12 bags"
+        },
+        "instruction_text": "You\u2019re planning snacks for your book club, and you want something everyone can enjoy regardless of their dietary needs, so you decide to buy puffed rice chips in a flavorful variety pack with enough bags to share.",
+        "price_upper": 32.99,
+        "scenario_id": "grocery001"
+    },
+    {
+        "asin": "B07FPQV7NS",
+        "attributes": [
+            "nut free",
+            "gluten free"
+        ],
+        "name": "Don't Go Nuts Nut-Free Organic Chewy Granola Bars, Chocolate Chip, 12 Count, Non GMO, Gluten Free",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Bars \u203a Granola",
+        "query": "breakfast foods",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "granola bars",
+        "goal_options": [
+            "chocolate chip",
+            "12 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "chocolate chip",
+            "size": "12 count (pack of 1)"
+        },
+        "instruction_text": "Your child\u2019s school is organizing a class field trip, and all snacks brought must be suitable for children with peanut and wheat allergies, so you decide to buy a box of chocolate chip granola bars to pack in their lunch.",
+        "price_upper": 20.0,
+        "scenario_id": "grocery002"
+    },
+    {
+        "asin": "B091SB5NHZ",
+        "attributes": [
+            "sugar free",
+            "natural flavors",
+            "drink mix",
+            "easy use"
+        ],
+        "name": "SPLENDA Liquid Water Enhancer Drops, Sugar Free, Zero Calorie, Natural Flavor, Concentrated Drink Mix, 3.11 Fl Oz Each Bottle (Variety, 3 Pack)",
+        "product_category": "Grocery & Gourmet Food \u203a Beverages \u203a Bottled Beverages, Water & Drink Mixes \u203a Powdered Drink Mixes & Flavorings \u203a Water Flavoring Drops",
+        "query": "beverages",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "water flavoring drops",
+        "goal_options": [
+            "variety",
+            "3.11 fl oz (pack of 3)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "variety",
+            "size": "3.11 fl oz (pack of 3)"
+        },
+        "instruction_text": "You are a busy professional who wants to drink more water throughout the day but dislikes the taste of plain water, so you decide to buy water flavoring drops that you can conveniently add to your bottle at work or on the go.",
+        "price_upper": 25.0,
+        "scenario_id": "grocery003"
+    },
+    {
+        "asin": "B08KGS3M2T",
+        "attributes": [
+            "high protein",
+            "gluten free",
+            "low carb"
+        ],
+        "name": "Healthwise - High Protein Shake (35 Grams) Vanilla - Meal Replacement, Low Calorie, Low Carb, Gluten Free, 14 Shakes Total (3 Pack of 21 Shakes)",
+        "product_category": "Grocery & Gourmet Food \u203a Beverages \u203a Bottled Beverages, Water & Drink Mixes \u203a Meal Replacement & Protein Drinks \u203a Meal Replacement Drinks",
+        "query": "milks & creams",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "protein shake",
+        "goal_options": [
+            "vanilla",
+            "3 pack (21 shakes)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "vanilla",
+            "size": "3 pack (21 shakes)"
+        },
+        "instruction_text": "You are an active gym-goer who is training for a fitness competition, and you want a convenient and easy-to-digest meal replacement that fits your strict eating plan and doesn\u2019t trigger your wheat sensitivity, so you decide to buy a vanilla protein shake multipack to have enough for the week.",
+        "price_upper": 80.0,
+        "scenario_id": "grocery004"
+    },
+    {
+        "asin": "B0786TRY53",
+        "attributes": [
+            "grain free",
+            "keto friendly",
+            "low calorie",
+            "protein serving"
+        ],
+        "name": "Cali'flour Foods Pizza Crust (Original Italian, 3 Boxes, 6 Crusts) - Keto Friendly | Low Carb, Gluten and Grain Free | Fresh Cauliflower Base",
+        "product_category": "Grocery & Gourmet Food \u203a Breads & Bakery \u203a Pizza Crusts",
+        "query": "frozen",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "frozen cauliflower pizza crust",
+        "goal_options": [
+            "original italian",
+            "9.75 ounce (pack of 3)"
+        ],
+        "goal_options_dict": {
+            "flavor": "original italian",
+            "size": "9.75 ounce (pack of 3)"
+        },
+        "instruction_text": "You\u2019re planning a Friday pizza night for yourself and two friends, but you all recently started following a low-carb diet and one of your friends can\u2019t eat grains, so you decide to buy frozen cauliflower pizza crusts to make sure everyone can enjoy homemade pizzas together.",
+        "price_upper": 40.0,
+        "scenario_id": "grocery005"
+    },
+    {
+        "asin": "B07Z34WBR5",
+        "attributes": [
+            "gluten free",
+            "low carb"
+        ],
+        "name": "Milk Chocolate Style Baking Chips By Lily's Sweets | Made with Stevia, No Added Sugar, Low-Carb, Keto Friendly | 32% Cocoa | Fair Trade, Gluten-Free & Non-GMO Ingredients | 9 Oz, 3 Pack",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking \u203a Baking Chocolates, Carob & Cocoa \u203a Chocolates",
+        "query": "frozen",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "frozen chocolate chips",
+        "goal_options": [
+            "milk chocolate style",
+            "9 ounce (pack of 3)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "milk chocolate style",
+            "size": "9 ounce (pack of 3)"
+        },
+        "instruction_text": "You're preparing homemade trail mix to enjoy during a weekend camping trip, and since you're avoiding certain ingredients and keeping an eye on your sugar intake, you want to buy frozen chocolate chips that suit your needs and come in a convenient multi-pack size for sharing.",
+        "price_upper": 25.0,
+        "scenario_id": "grocery006"
+    },
+    {
+        "asin": "B0774SWZDB",
+        "attributes": [
+            "individually wrapped",
+            "coffee tea",
+            "dark chocolate",
+            "hot chocolate"
+        ],
+        "name": "Nonni's Biscotti Value Pack, Cioccolati Dark Chocolate Almond, 25 Count",
+        "product_category": "Grocery & Gourmet Food \u203a Breads & Bakery \u203a Cookies \u203a Chocolate",
+        "query": "snack food gifts",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "biscotti gift pack",
+        "goal_options": [
+            "cioccolati dark chocolate almond",
+            "25 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "cioccolati dark chocolate almond",
+            "size": "25 count (pack of 1)"
+        },
+        "instruction_text": "You want to buy a thoughtful gift for your friend who loves to pair her coffee and tea with a sweet treat, and you know she enjoys sharing snacks with her coworkers at the office. You decide to purchase the biscotti gift pack to give her a delicious variety to enjoy throughout her workday.",
+        "price_upper": 25.0,
+        "scenario_id": "grocery007"
+    },
+    {
+        "asin": "B08H3HKC5C",
+        "attributes": [
+            "gluten free",
+            "hand crafted",
+            "healthy snack"
+        ],
+        "name": "Mighty Spark - Chicken Snack Sticks - No Antibiotics Ever, No Hormones Added, Gluten Free, Soy Free (Honey and Jalapeno, 12 Count)",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Meat Snacks \u203a Jerky",
+        "query": "meat snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "chicken snack sticks",
+        "goal_options": [
+            "honey and jalapeno",
+            "1 ounce (pack of 12)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "honey and jalapeno",
+            "size": "1 ounce (pack of 12)"
+        },
+        "instruction_text": "You\u2019re packing a variety of flavorful, better-for-you snacks for your upcoming hiking trip with friends who have food sensitivities, and you want to make sure everyone can enjoy a protein-rich option, so you decide to buy these chicken snack sticks.",
+        "price_upper": 25.0,
+        "scenario_id": "grocery008"
+    },
+    {
+        "asin": "B09QNGTY9Y",
+        "attributes": [
+            "nut free",
+            "dairy free"
+        ],
+        "name": "GoNanas Salted Caramel Banana Bread Mix, Vegan, Gluten Free Healthy Snacks. Oat Flour Banana Bread or Banana Muffin Mix. Women Owned, US Ingredients, Dairy Free, Nut Free, Delicious (3 Pack)",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking",
+        "query": "non-dairy milks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "banana bread mix",
+        "goal_options": [
+            "salted-caramel",
+            "3 pack"
+        ],
+        "goal_options_dict": {
+            "flavor name": "salted-caramel",
+            "size": "3 pack"
+        },
+        "instruction_text": "You\u2019re hosting a weekend brunch for your child\u2019s playgroup, and with several kids having food sensitivities, you want to buy a banana bread mix that\u2019s safe for everyone and lets you easily whip up delicious treats in different flavors to share and send home.",
+        "price_upper": 35.0,
+        "scenario_id": "grocery009"
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "scenario_id": "garden000",
+        "asin": "B08P68TVGB",
+        "attributes": [
+            "box spring",
+            "bed frame",
+            "platform bed"
+        ],
+        "name": "ZINUS 12 Inch Memory Foam Spring Hybrid Mattress + Curtis Upholstered Platform Bed Frame, Full",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Mattresses & Box Springs \u203a Mattresses",
+        "query": "mattresses",
+        "weight": 1.0,
+        "product_type": "mattress",
+        "goal_options": [
+            "full",
+            "12 inch + curtis platform bed"
+        ],
+        "goal_options_dict": {
+            "size": "full",
+            "style": "12 inch + curtis platform bed"
+        },
+        "instruction_text": "You\u2019ve just moved into your first apartment and need an affordable, supportive bed setup that\u2019s easy to assemble and fits perfectly in your cozy bedroom, so you decide to buy a mattress with an integrated frame that provides solid support and doesn't require extra equipment.",
+        "price_upper": 650.0,
+        "category": "garden"
+    },
+    {
+        "scenario_id": "garden001",
+        "asin": "B088T49TJY",
+        "attributes": [
+            "home office",
+            "computer desk"
+        ],
+        "name": "SOFSYS Alpha Series 55.1\u201d Computer Desk with Bookshelf Storage, All-in-One Workstation with Long Table Working Surface, Multi-Tiered Shelving for Home Office or Gaming, Oak/Black",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Home Office Furniture \u203a Home Office Desks",
+        "query": "desks",
+        "weight": 1.0,
+        "product_type": "computer desk",
+        "goal_options": [
+            "55.1 inch"
+        ],
+        "goal_options_dict": {
+            "size": "55.1 inch"
+        },
+        "instruction_text": "You recently started working from home full-time and need a spacious and sturdy setup to accommodate both your dual monitors and writing materials, so you want to buy a computer desk that will let you organize everything comfortably in one dedicated workspace.",
+        "price_upper": 150.0,
+        "category": "garden"
+    },
+    {
+        "asin": "B0978XWTY4",
+        "attributes": [
+            "eco friendly",
+            "machine washable"
+        ],
+        "name": "Grey Ombre Sheer Curtains Faux Linen - Semi Voile Gradient Sheer Curtain for Bedroom and Living Room Grommet Top,Set of 2 Panels Window Curtains 52\" W\u00d784\" L",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Window Treatments \u203a Curtains & Drapes \u203a Panels",
+        "query": "window coverings",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "sheer curtains",
+        "goal_options": [
+            "grey",
+            "52\"w\u00d784\"l"
+        ],
+        "goal_options_dict": {
+            "color": "grey",
+            "size": "52\"w\u00d784\"l"
+        },
+        "instruction_text": "You are updating your living room to create a soft, airy feel while making sure your home remains in line with your sustainable values, so you want to buy sheer curtains that will be easy to keep clean and fit your window perfectly.",
+        "price_upper": 25.0,
+        "scenario_id": "garden002"
+    },
+    {
+        "asin": "B09P73WHD1",
+        "attributes": [
+            "heathers cotton",
+            "classic fit"
+        ],
+        "name": "Sarcastic, I May Have A Dirty Mouth, Joke, Family Tank Top",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Novelty & More \u203a Clothing \u203a Novelty \u203a Women \u203a Tops & Tees \u203a Tanks & Camis",
+        "query": "men's tank tops",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's tank top",
+        "goal_options": [
+            "men",
+            "black",
+            "large"
+        ],
+        "goal_options_dict": {
+            "fit type": "men",
+            "color": "black",
+            "size": "large"
+        },
+        "instruction_text": "You\u2019re looking for a comfortable top to wear to your weekend basketball game that can handle both your active moves and relaxed post-game hangouts, so you want to buy a men\u2019s tank top that suits your style and fits just right.",
+        "price_upper": 19.99,
+        "scenario_id": "fashion000"
+    },
+    {
+        "asin": "B09CKX2ZY2",
+        "attributes": [
+            "rubber sole",
+            "non slip",
+            "anti slip"
+        ],
+        "name": "ComeShun Women Low Block Heels Peep Toe Sandals Comfy Slingback Pumps",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Shoes \u203a Sandals \u203a Heeled Sandals",
+        "query": "women's pumps",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's pumps",
+        "goal_options": [
+            "7",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "7",
+            "color": "black"
+        },
+        "instruction_text": "You work in a busy office and walk several blocks each day on rainy city sidewalks, so you want to buy a pair of women's pumps in your size that will keep you steady and comfortable during your commute and workday.",
+        "price_upper": 32.99,
+        "scenario_id": "fashion001"
+    },
+    {
+        "asin": "B08R76M6D7",
+        "attributes": [
+            "high waist",
+            "high heel",
+            "loose fit"
+        ],
+        "name": "PRETTYGARDEN Women\u2019s Leopard Print Shorts Jumpsuit Wrap V Neck 3/4 Sleeve Casual Loose Oversized Romper with Pockets",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Jumpsuits, Rompers & Overalls \u203a Rompers",
+        "query": "women's jumpsuits, rompers & overalls",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's romper",
+        "goal_options": [
+            "black",
+            "medium"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "medium"
+        },
+        "instruction_text": "You\u2019re planning to attend a trendy rooftop party in the city and want a chic yet comfortable outfit that will make a stylish statement and pair perfectly with your favorite heels, so you decide to buy a women\u2019s romper.",
+        "price_upper": 31.98,
+        "scenario_id": "fashion002"
+    },
+    {
+        "asin": "B07L4Y413Z",
+        "attributes": [
+            "non gmo",
+            "real fruit"
+        ],
+        "name": "Life's Grape Vine Dried Grapes - Dark Chocolate | Raisins Revamped | Healthy Fruit Snacks for Kids and Adults | Dusted With Rich Cocoa Powder | Sodium Free Kosher Chocolate Snacks | 24 1oz Packs",
+        "product_category": "Grocery & Gourmet Food \u203a Produce \u203a Dried Fruits & Vegetables \u203a Dried Fruits \u203a Raisins",
+        "query": "dried fruits & raisins",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "chocolate covered raisins",
+        "goal_options": [
+            "dark chocolate",
+            "0.8 ounce (pack of 24)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "dark chocolate",
+            "size": "0.8 ounce (pack of 24)"
+        },
+        "instruction_text": "You are packing healthy, portion-controlled treats for your weekly family movie night at home, and you want something indulgent and fruity that everyone\u2014including your health-conscious sibling and your child with food sensitivities\u2014can safely enjoy. You decide to buy chocolate covered raisins snacks that are made with real fruit and meet your family's dietary preferences.",
+        "price_upper": 34.99,
+        "scenario_id": "grocery000"
+    },
+    {
+        "asin": "B08GHTQBWV",
+        "attributes": [
+            "non gmo",
+            "gluten free",
+            "simple ingredients"
+        ],
+        "name": "Woodridge Snacks | Sticky Rice Chips | Sriracha Flavor | 12 Pack | 2.8 Oz. (80g) Bags",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Rice Cakes, Chips & Crackers \u203a Chips",
+        "query": "puffed snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "puffed rice chips",
+        "goal_options": [
+            "sriracha",
+            "12 bags"
+        ],
+        "goal_options_dict": {
+            "flavor name": "sriracha",
+            "size": "12 bags"
+        },
+        "instruction_text": "You\u2019re planning snacks for your book club, and you want something everyone can enjoy regardless of their dietary needs, so you decide to buy puffed rice chips in a flavorful variety pack with enough bags to share.",
+        "price_upper": 32.99,
+        "scenario_id": "grocery001"
+    },
+    {
+        "asin": "B07FPQV7NS",
+        "attributes": [
+            "nut free",
+            "gluten free"
+        ],
+        "name": "Don't Go Nuts Nut-Free Organic Chewy Granola Bars, Chocolate Chip, 12 Count, Non GMO, Gluten Free",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Bars \u203a Granola",
+        "query": "breakfast foods",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "granola bars",
+        "goal_options": [
+            "chocolate chip",
+            "12 count (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "chocolate chip",
+            "size": "12 count (pack of 1)"
+        },
+        "instruction_text": "Your child\u2019s school is organizing a class field trip, and all snacks brought must be suitable for children with peanut and wheat allergies, so you decide to buy a box of chocolate chip granola bars to pack in their lunch.",
+        "price_upper": 20.0,
+        "scenario_id": "grocery002"
+    },
+    {
+        "asin": "B081W9YZ7K",
+        "attributes": [
+            "cruelty free",
+            "easy clean",
+            "toiletry bag",
+            "quality materials"
+        ],
+        "name": "Leather Shaving Bag for Men, Mens PU Leather Toiletry Bag, Leather Dopp Kit for Men, Toiletry Bag, Mens Travel Toiletry Bag, Hygiene & Grooming Kit Organizer, Cruelty-Free Leather and Hand Stitched Vanity Case",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases \u203a Toiletry Bags",
+        "query": "bags & cases",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "toiletry bag",
+        "goal_options": [
+            "midnight black",
+            "2 - compartment"
+        ],
+        "goal_options_dict": {
+            "color": "midnight black",
+            "style": "2 - compartment"
+        },
+        "instruction_text": "You are preparing for a week-long work trip and want to keep your skincare and hygiene products neatly organized and separated, while also ensuring your purchase aligns with your ethical values and is durable enough to withstand frequent travel. You want to buy a toiletry bag that reflects your commitment to responsible choices and can be quickly wiped clean if there are any spills in your luggage.",
+        "price_upper": 39.99,
+        "scenario_id": "beauty000"
+    },
+    {
+        "asin": "B00J4YYOWI",
+        "attributes": [
+            "paraben free",
+            "oil free",
+            "skin care"
+        ],
+        "name": "St. Ives Fresh Skin Face Scrub Deeply Exfoliates for Smooth, Glowing Skin Apricot Dermatologist Tested, Made with 100% Natural Exfoliants 6 oz",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Face \u203a Polishes & Scrubs \u203a Scrubs",
+        "query": "scrubs & body treatments",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "face scrub",
+        "goal_options": [
+            "apricot",
+            "6 ounce (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "scent": "apricot",
+            "size": "6 ounce (pack of 1)"
+        },
+        "instruction_text": "You have combination skin that tends to get oily in the T-zone and you\u2019re searching for a gentle face scrub to add to your daily skincare routine; you want to buy a face scrub that\u2019s safe for sensitive skin and won\u2019t clog your pores.",
+        "price_upper": 120.0,
+        "scenario_id": "beauty001"
+    },
+    {
+        "asin": "B004K0WINI",
+        "attributes": [
+            "shea butter",
+            "dermatologist tested",
+            "dry skin",
+            "body lotion"
+        ],
+        "name": "Burts Bees Butter Body Lotion for Dry Skin with Cocoa & Cupuau, 6 Oz (Package May Vary)",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Body \u203a Moisturizers \u203a Lotions",
+        "query": "body care",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "body lotion",
+        "goal_options": [
+            "cocoa & cupuacu",
+            "6 fl oz (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "scent": "cocoa & cupuacu",
+            "size": "6 fl oz (pack of 1)"
+        },
+        "instruction_text": "You notice your skin feels uncomfortably rough and tight after your morning shower, and because you have sensitive skin, you want to buy a body lotion that you know has been recommended by professionals for daily use on very dry areas.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty002"
+    },
+    {
+        "asin": "B08THLR7B7",
+        "attributes": [
+            "long lasting",
+            "wireless bluetooth"
+        ],
+        "name": "Earbuds Headphones, Slim Bluetooth Headset, Wireless Bluetooth Earpiece V5.0 Hands-Free Earphones with Built-in Mic for Driving Business Office Home (Beans, Button-White-MB12)",
+        "product_category": "Electronics \u203a Headphones \u203a Earbud Headphones",
+        "query": "bluetooth headsets",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "bluetooth earpiece",
+        "goal_options": [
+            "beans"
+        ],
+        "goal_options_dict": {
+            "size": "beans"
+        },
+        "instruction_text": "You are a busy chef who spends hours each day prepping and cooking meals in a bustling kitchen, needing to communicate with suppliers and staff without being tied down by wires or having your hands occupied, so you want to buy a bluetooth earpiece for seamless, all-day connectivity.",
+        "price_upper": 34.99,
+        "scenario_id": "electronics000"
+    },
+    {
+        "asin": "B096X9L6VZ",
+        "attributes": [
+            "security camera",
+            "motion detection"
+        ],
+        "name": "Guaddaole PoE IP Camera Outdoor, 5MP(2560x1920) UltraHD Dome Camera with Microphone, Audio, 98ft IR Night Vision,2.8mm Lens with Motion Detection,IP66 Weatherproof, Ideal for Baby Monitor/ Pet Camera",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Video Surveillance \u203a Surveillance Cameras \u203a Dome Cameras",
+        "query": "lenses",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "dome camera lens",
+        "goal_options": [
+            "5mp"
+        ],
+        "goal_options_dict": {
+            "size": "5mp"
+        },
+        "instruction_text": "You recently opened a small retail shop in a busy area and are concerned about keeping an eye on both customers and employees, so you want to buy a dome camera lens to monitor activity discreetly and ensure peace of mind after hours.",
+        "price_upper": 59.99,
+        "scenario_id": "electronics001"
+    },
+    {
+        "asin": "B08VD6747H",
+        "attributes": [
+            "screen protector",
+            "apple watch",
+            "easy install",
+            "glass screen"
+        ],
+        "name": "Mocodi 4 Pack Apple Watch Case 42mm Series 3/2/1 With Tempered Glass Screen Protector,Ultra-Thin Hard PC Shockproof Bumper Full Scratch-Resistant Protective Cover for Men Women iWatch Accessories",
+        "product_category": "Cell Phones & Accessories \u203a Accessories \u203a Smartwatch Accessories \u203a Smartwatch Screen Protectors",
+        "query": "screen protectors",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "Apple Watch screen protector",
+        "goal_options": [
+            "42 mm"
+        ],
+        "goal_options_dict": {
+            "size": "42 mm"
+        },
+        "instruction_text": "You recently upgraded to the newest generation of a popular smartwatch and want to protect its display from everyday wear while still keeping it looking sleek, so you decide to buy an Apple Watch screen protector that's designed for your model and is easy to put on yourself.",
+        "price_upper": 9.99,
+        "scenario_id": "electronics002"
+    }
+]

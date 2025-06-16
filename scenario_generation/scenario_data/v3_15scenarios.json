@@ -1,0 +1,383 @@
+[
+    {
+        "asin": "B013P7XS62",
+        "attributes": [
+            "non gmo",
+            "nut free",
+            "baked goods",
+            "milk powder"
+        ],
+        "name": "Judee\u2019s Whole Milk Powder 1.5lb (24oz) - 100% Non-GMO, rBST Hormone-Free, Gluten-Free & Nut-Free - Pantry Staple, Baking Ready, Great for Travel, and Reconstituting - Made in USA",
+        "product_category": "Grocery & Gourmet Food \u203a Pantry Staples \u203a Cooking & Baking \u203a Condensed & Powdered Milk \u203a Powdered",
+        "query": "pantry staples",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "powdered milk",
+        "goal_options": [
+            "whole milk",
+            "1.5 pound (pack of 1)"
+        ],
+        "goal_options_dict": {
+            "flavor name": "whole milk",
+            "size": "1.5 pound (pack of 1)"
+        },
+        "instruction_text": "You are a parent baking allergen-safe treats for your child\u2019s school fundraiser, and you need a convenient, shelf-stable way to add milk to your recipes without worrying about tree nut exposure or unwanted additives.",
+        "attribute_wise_reasoning": "- non gmo: You are concerned about unwanted additives, which often implies seeking products without genetically modified ingredients.\n- nut free: The reference to baking allergen-safe treats for a school fundraiser\u2014in particular, the emphasis on nut exposure\u2014leads you to want a nut-free product.\n- baked goods: You are using the product specifically for baking, so you need milk powder suitable for use in baked goods.\n- milk powder: You need a shelf-stable way to add milk to recipes, which points directly to milk powder.",
+        "price_upper": 20.0,
+        "scenario_id": "grocery000"
+    },
+    {
+        "asin": "B08GHTQBWV",
+        "attributes": [
+            "fat free",
+            "non gmo",
+            "gluten free"
+        ],
+        "name": "Woodridge Snacks | Sticky Rice Chips | Sriracha Flavor | 12 Pack | 2.8 Oz. (80g) Bags",
+        "product_category": "Grocery & Gourmet Food \u203a Snacks & Sweets \u203a Snack Foods \u203a Rice Cakes, Chips & Crackers \u203a Chips",
+        "query": "puffed snacks",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "rice chips",
+        "goal_options": [
+            "sriracha",
+            "12 bags"
+        ],
+        "goal_options_dict": {
+            "flavor name": "sriracha",
+            "size": "12 bags"
+        },
+        "instruction_text": "You are planning a snack table for your weekly book club, where several members have dietary restrictions due to allergies and personal choices, and you want to make sure there\u2019s a crunchy snack everyone can safely enjoy.",
+        "attribute_wise_reasoning": "- Fat free: You want to choose a snack that accommodates guests who are watching their fat intake or managing health conditions, so a fat free option is ideal.  \n- Non GMO: Some of your book club members prefer foods made without genetically modified ingredients, making a non GMO product the right choice.  \n- Gluten free: You know a couple of attendees have gluten sensitivities or celiac disease, so you need a snack that is guaranteed gluten free.",
+        "price_upper": 30.0,
+        "scenario_id": "grocery001"
+    },
+    {
+        "asin": "B07BHTQNN8",
+        "attributes": [
+            "low sugar",
+            "high protein",
+            "birthday cake",
+            "gluten free"
+        ],
+        "name": "Pure Protein Bars, High Protein, Nutritious Snacks to Support Energy, Low Sugar, Gluten Free, Birthday Cake, 1.76 Ounce (Pack of 6)",
+        "product_category": "Health & Household \u203a Diet & Sports Nutrition \u203a Nutrition Bars & Drinks \u203a Nutrition Bars \u203a Protein Bars",
+        "query": "granola & nutrition bars",
+        "weight": 1.0,
+        "category": "grocery",
+        "product_type": "protein bars",
+        "goal_options": [
+            "6 count",
+            "birthday cake"
+        ],
+        "goal_options_dict": {
+            "size": "6 count",
+            "style": "birthday cake"
+        },
+        "instruction_text": "You are planning a surprise treat for your workout group to celebrate a member's birthday, and you want to bring a fun, festive protein snack that everyone\u2014even those avoiding gluten and watching their sugar intake\u2014can enjoy.",
+        "attribute_wise_reasoning": "- Low sugar: You know several people in the group are careful about sugar, so you should choose a snack that won\u2019t spike anyone\u2019s blood sugar.\n- High protein: Since it\u2019s an active group, you want to provide something that will help with recovery after exercise, so a high-protein snack is ideal.\n- Birthday cake: To make it festive and fitting for the occasion, you choose a treat that tastes like birthday cake.\n- Gluten free: Some members of your group have gluten intolerances, so a gluten free option ensures everyone can safely enjoy the snack.",
+        "price_upper": 110.0,
+        "scenario_id": "grocery002"
+    },
+    {
+        "asin": "B07N8JJWJB",
+        "attributes": [
+            "platform bed",
+            "contemporary style",
+            "queen size",
+            "button tufted"
+        ],
+        "name": "EMMA + OLIVER Queen Size Three Button Tufted Platform Bed in Black Fabric",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Bedroom Furniture \u203a Beds, Frames & Bases \u203a Beds",
+        "query": "beds",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "bed frame",
+        "goal_options": [
+            "queen"
+        ],
+        "goal_options_dict": {
+            "size": "queen"
+        },
+        "instruction_text": "You\u2019ve just moved into a new apartment with a minimalist, modern d\u00e9cor and are looking for a sturdy bed that combines both comfortable support and a stylish design to serve as the focal point of your bedroom.",
+        "attribute_wise_reasoning": "- Platform bed: You want a sturdy bed that provides comfortable support without the need for a box spring, making setup easy and keeping your bedroom streamlined.\n- Contemporary style: Your new apartment features minimalist, modern d\u00e9cor, so you\u2019ll want a bed that blends seamlessly with that aesthetic.\n- Button tufted: You\u2019re looking for a bed that serves as a stylish focal point, and a button tufted headboard will give the room an elegant, eye-catching look.",
+        "price_upper": 410.0,
+        "scenario_id": "garden000"
+    },
+    {
+        "asin": "B079VT1GT1",
+        "name": "Kate and Laurel Calter Modern Decorative Framed Beveled Wall Mirror, 25.5x37.5 Black",
+        "product_category": "Home & Kitchen \u203a Home D\u00e9cor Products \u203a Mirrors \u203a Wall-Mounted Mirrors",
+        "query": "cabinets",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "wall mirror",
+        "attributes": [
+            "contemporary style",
+            "wall art",
+            "home decor"
+        ],
+        "goal_options": [
+            "black",
+            "25.5x37.5"
+        ],
+        "goal_options_dict": {
+            "color": "black",
+            "size": "25.5x37.5"
+        },
+        "instruction_text": "You have recently renovated your living room in a sleek, modern design and are looking for a statement piece to hang above your console table\u2014something that will reflect light, make the room look bigger, and complement your aesthetic, so you want to buy a wall mirror that also serves as eye-catching art for your space.",
+        "attribute_wise_reasoning": "- Contemporary style: You want the mirror to match your newly modernized decor, so you need a mirror that reflects current design trends and aesthetics.\n- Wall art: You\u2019re seeking a mirror that doesn\u2019t just serve a functional purpose, but also acts as a statement piece, much like artwork, to elevate your living space.\n- Home decor: The mirror should be suitable for decorating your home and seamlessly blend in as part of your overall interior design strategy, enhancing both style and ambiance.",
+        "price_upper": 110.0,
+        "scenario_id": "garden001"
+    },
+    {
+        "asin": "B08QFNQXZ6",
+        "name": "Bestier 47 Inch Modern Simple Style Portable Table Home Office Engineered Wood Desktop Mount Computer Desk with Storage Bag and Iron Hook, Gray",
+        "product_category": "Home & Kitchen \u203a Furniture \u203a Home Office Furniture \u203a Home Office Desks",
+        "query": "desks",
+        "weight": 1.0,
+        "category": "garden",
+        "product_type": "computer desk",
+        "attributes": [
+            "engineered wood",
+            "metal frame",
+            "home office"
+        ],
+        "goal_options": [
+            "47 inch"
+        ],
+        "goal_options_dict": {
+            "size": "47 inch"
+        },
+        "instruction_text": "You are setting up a compact home office in your apartment and need a sturdy, modern desk that fits your computer, monitor, and office essentials without taking up too much space. You want to buy a computer desk that will last and look good in your workspace.",
+        "attribute_wise_reasoning": "- Engineered wood: You need a desk surface that is durable and easy to clean, suitable for handling daily office tasks while also being stylish enough to complement your decor.\n- Metal frame: You want a desk that feels stable and can support your computer and monitor without wobbling, so a strong metal frame is ideal for reliability.\n- Home office: Since you\u2019re designing a dedicated home office area, you require a desk that is specifically built for efficient home office use, offering enough space and functional design for productivity.",
+        "price_upper": 100.0,
+        "scenario_id": "garden002"
+    },
+    {
+        "asin": "B09N92JSCP",
+        "name": "Adepoy for Apple Watch Case Series 7 41mm with Tempered Glass Screen Protector, Double Bling Case Crystal Diamonds Rhinestone Bumper Overall Hard PC Ultra-Thin Protective Cover for iWatch 41mm, Clear",
+        "product_category": "Cell Phones & Accessories \u203a Accessories \u203a Smartwatch Accessories \u203a Smartwatch Cases",
+        "query": "wearable technology",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "smartwatch case",
+        "attributes": [
+            "screen protector",
+            "tempered glass",
+            "easy install",
+            "compatible apple"
+        ],
+        "goal_options": [
+            "clear",
+            "41mm"
+        ],
+        "goal_options_dict": {
+            "color": "clear",
+            "size": "41mm"
+        },
+        "instruction_text": "You recently bought a new Apple smartwatch and, since you are always on the go and sometimes bump your wrist against hard surfaces, you want to keep your watch protected without adding extra bulk or changing how it looks, so you decide to buy a smartwatch case designed for your model.",
+        "attribute_wise_reasoning": "- screen protector: You need to guard the screen from scratches and impacts that happen during your busy daily activities.\n- tempered glass: You want strong protection that can absorb shocks and prevent cracks if you accidentally hit or drop your watch.\n- easy install: You prefer a hassle-free setup so you can start using your watch and protection right away, without complicated tools or procedures.\n- compatible apple: You have an Apple smartwatch and want a case that fits perfectly and doesn't interfere with its features or buttons.",
+        "price_upper": 15.0,
+        "scenario_id": "electronics000"
+    },
+    {
+        "asin": "B0924GDGTC",
+        "name": "[6ft, 2-Pack] USB C to USB C Cable, etguuds 60W/3A Fast Charge Type C to Type C Charging Cord Compatible with Samsung Galaxy S21/S21+, S20/S20+ Ultra 5G S10, Note 20 10, Pixel, Switch, Pad & Laptops",
+        "product_category": "Cell Phones & Accessories \u203a Accessories",
+        "query": "chargers",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "USB-C to USB-C charging cable",
+        "attributes": [
+            "fast charging",
+            "high speed",
+            "charging cable"
+        ],
+        "goal_options": [
+            "6ft,6ft"
+        ],
+        "goal_options_dict": {
+            "size": "6ft,6ft"
+        },
+        "instruction_text": "You often work from your living room sofa, charging your laptop as you move around, and you need to quickly top up your device without being tethered to the wall right next to an outlet, so you want to buy a USB-C to USB-C charging cable.",
+        "attribute_wise_reasoning": "- Fast charging: You want to quickly top up your laptop or other USB-C device during short breaks, so a cable that supports fast charging is necessary to minimize downtime.\n- High speed: If you transfer data between devices, or want maximum performance, you need a cable that supports high-speed data transfer.\n- Charging cable: Your primary goal is to charge your device, so a dedicated charging cable that fits USB-C ports is what you should buy.",
+        "price_upper": 10.0,
+        "scenario_id": "electronics001"
+    },
+    {
+        "asin": "B099N9LFGZ",
+        "name": "ALPCAM Outdoor USB Camera Waterproof Day Night Vision Webcam with 24pcs Infrared LEDs,Dome Home Security Camera OV9712 CMOS USB Camera with 3.6mm Lens IR-Cut for Windows Mac Linux Android",
+        "product_category": "Electronics \u203a Camera & Photo \u203a Video Surveillance \u203a Surveillance Cameras \u203a Dome Cameras",
+        "query": "video surveillance",
+        "weight": 1.0,
+        "category": "electronics",
+        "product_type": "dome security camera",
+        "attributes": [
+            "night vision",
+            "heavy duty",
+            "plug play",
+            "high speed"
+        ],
+        "goal_options": [
+            "04h-3.6mm"
+        ],
+        "goal_options_dict": {
+            "size": "04h-3.6mm"
+        },
+        "instruction_text": "You are responsible for security at a busy 24-hour warehouse that has frequent power surges, and you need to quickly install a reliable surveillance camera that can clearly monitor large areas both day and night, capturing fast movement at all hours. You want to buy a dome security camera for your facility.",
+        "attribute_wise_reasoning": "- Night vision: You need to monitor the warehouse during nighttime hours when lighting is minimal, so you require a camera that can capture clear footage in the dark.\n- Heavy duty: The camera must withstand potential impacts, harsh environmental conditions, and power surges common in your warehouse, ensuring long-term reliability.\n- Plug play: Quick installation is crucial since the warehouse is always operational and you can't afford extended downtime, so you need a camera that is easy to set up without professional help.\n- High speed: The warehouse environment involves fast-moving people and packages, so you need a camera that can capture quick motion without missing details.",
+        "price_upper": 50.0,
+        "scenario_id": "electronics002"
+    },
+    {
+        "asin": "B07BCRH1H6",
+        "name": "CafePress Dog Tag Hero Brother Men's Dark Pajamas Pajama Set",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Novelty & More \u203a Clothing \u203a Novelty \u203a Men \u203a Sleep & Lounge \u203a Sets",
+        "query": "men's sleep & lounge",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's pajama set",
+        "attributes": [
+            "tumble dry",
+            "relaxed fit",
+            "wash cold",
+            "machine wash"
+        ],
+        "goal_options": [
+            "medium",
+            "with blue strpe pant"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "with blue strpe pant"
+        },
+        "instruction_text": "You work long hours and value unwinding at home in comfortable pajamas that are easy to care for between wears, especially since you tend to run your laundry on cold settings and prefer to quickly dry everything in the machine.",
+        "attribute_wise_reasoning": "- tumble dry: You prefer drying your clothes quickly and conveniently in a machine rather than air-drying them.\n- relaxed fit: After a long day, you want your pajamas to feel comfortable and not restrictive.\n- wash cold: You typically wash your laundry on cold to save energy or protect your clothes' colors, so your pajamas need to be able to handle that.\n- machine wash: You need pajamas that can easily be cleaned in a washing machine since you rely on that method for all your laundry.",
+        "price_upper": 55.0,
+        "scenario_id": "fashion000"
+    },
+    {
+        "asin": "B09CFV4ZRW",
+        "name": "WHITIN Men\u2019s Arch Support House Slippers | Warm Fuzzy Lining | Indoor Outdoor Sole",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Men \u203a Shoes \u203a Slippers",
+        "query": "men's slippers",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "men's slippers",
+        "attributes": [
+            "arch support",
+            "house slippers",
+            "rubber outsole",
+            "rubber sole"
+        ],
+        "goal_options": [
+            "8"
+        ],
+        "goal_options_dict": {
+            "size": "8"
+        },
+        "instruction_text": "You often work from home on hardwood floors and need comfortable, supportive footwear you can wear all day inside without slipping when you step out briefly to grab the mail or take out the trash, so you want to buy men's slippers made for indoor use but sturdy enough for quick trips outside.",
+        "attribute_wise_reasoning": "- Arch support: Since you're on your feet for long periods on hard floors, you need slippers that provide proper arch support to prevent foot fatigue and discomfort.\n- House slippers: Because you need footwear suitable for wearing at home and intended primarily for indoor comfort, house slippers are the right choice.\n- Rubber outsole: You sometimes have to step outside briefly, so you'll want slippers with a durable rubber outsole to withstand outdoor surfaces and protect your feet.\n- Rubber sole: To avoid slipping on hardwood floors and provide reliable traction both indoors and out, slippers with a rubber sole are essential.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion001"
+    },
+    {
+        "asin": "B09QRYFBZW",
+        "name": "CRZ YOGA Women's Cotton Sweatpants High Waist Workout Joggers Loose Fit Athletic Lounge Casual Pants with Pockets",
+        "product_category": "Clothing, Shoes & Jewelry \u203a Women \u203a Clothing \u203a Active \u203a Active Pants",
+        "query": "women's activewear",
+        "weight": 1.0,
+        "category": "fashion",
+        "product_type": "women's sweatpants",
+        "attributes": [
+            "high waist",
+            "loose fit",
+            "jogger pants",
+            "drawstring closure"
+        ],
+        "goal_options": [
+            "medium",
+            "black"
+        ],
+        "goal_options_dict": {
+            "size": "medium",
+            "color": "black"
+        },
+        "instruction_text": "You\u2019re looking for something comfortable and relaxed to wear to your weekend yoga class and also for lounging at home, and you want an option that can easily be adjusted at the waist for a perfect fit\u2014so you decide to buy a pair of women's sweatpants joggers.",
+        "attribute_wise_reasoning": "- high waist: You want pants that offer extra coverage and support during movement, which helps you feel secure and comfortable whether stretching, lounging, or running errands.  \n- loose fit: You need freedom of movement and breathability, which is essential for yoga and relaxation.  \n- jogger pants: You want a modern style with cuffed ankles, making the pants versatile for both exercise and casual wear.  \n- drawstring closure: You prefer an adjustable waistband so you can customize the fit for comfort no matter your activity.",
+        "price_upper": 40.0,
+        "scenario_id": "fashion002"
+    },
+    {
+        "asin": "B07GRPZD87",
+        "name": "Nutiva Organic Coconut Body Oil, Blissful Grapefruit, 3.4 Ounce | USDA Organic, Non-GMO | Vegan & Cruelty-Free | Natural Nourishment for Skin Hydration, Moisturizer, or Massage",
+        "product_category": "Beauty & Personal Care \u203a Skin Care \u203a Body \u203a Moisturizers \u203a Oils",
+        "query": "body makeup",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "body oil",
+        "attributes": [
+            "cruelty free",
+            "long lasting"
+        ],
+        "goal_options": [
+            "3.4-fluid ounce"
+        ],
+        "goal_options_dict": {
+            "size": "3.4-fluid ounce"
+        },
+        "instruction_text": "You are planning a weekend spa getaway and want to bring a body oil that will keep your skin feeling moisturized all day while knowing it aligns with your ethical values.",
+        "attribute_wise_reasoning": "- Cruelty free: You prefer to use products that match your compassion for animals and ethical standards, so you seek out body oil made without animal testing.\n- Long lasting: Since you want your skin to remain smooth and hydrated throughout long, relaxing days, you need a body oil with staying power that won't require frequent reapplication.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty000"
+    },
+    {
+        "asin": "B01J2WKGPK",
+        "name": "Healthcom 15ml White Plastic Deodorant Containers 0.5 Oz New Empty Oval Lip Balm Tubes Empty Deodorant Container for Lipstick Crayon Chapstick DIY Make Your Own Deodorant Moisturizer Lotion Bar,30 Pack",
+        "product_category": "Beauty & Personal Care \u203a Tools & Accessories \u203a Bags & Cases",
+        "query": "refillable containers",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "empty deodorant containers",
+        "attributes": [
+            "bpa free",
+            "non toxic",
+            "high quality"
+        ],
+        "goal_options": [
+            "pack 30 pieces"
+        ],
+        "goal_options_dict": {
+            "size": "pack 30 pieces"
+        },
+        "instruction_text": "You run a small business making natural, homemade deodorants to sell at local markets, and you need a bulk order of safe, high-quality empty deodorant containers for your customers.",
+        "attribute_wise_reasoning": "- BPA free: You want to ensure your customers' safety and avoid harmful chemicals leaching into your natural deodorants.\n- Non toxic: Since your products are marketed as natural and safe, you need containers that won't introduce any toxic substances.\n- High quality: To reflect the care and quality of your homemade deodorants, you need containers that are durable and look professional for your business.",
+        "price_upper": 30.0,
+        "scenario_id": "beauty001"
+    },
+    {
+        "asin": "B08MXTT8GD",
+        "name": "GIRO 1PCS Silicone Back Scrubber for Shower with Hook 2021 Update Lengthen 35.4'' Double Side Exfoliating Massage Washer Body Bath Brush With Hook Up,Blue,1PCS",
+        "product_category": "Beauty & Personal Care \u203a Personal Care \u203a Bath & Bathing Accessories \u203a Bathing Accessories \u203a Bath & Body Brushes",
+        "query": "bathing accessories",
+        "weight": 1.0,
+        "category": "beauty",
+        "product_type": "silicone back scrubber",
+        "attributes": [
+            "eco friendly",
+            "non toxic",
+            "easy clean"
+        ],
+        "goal_options": [
+            "35.4 inch"
+        ],
+        "goal_options_dict": {
+            "size": "35.4 inch"
+        },
+        "instruction_text": "You are someone who cares deeply about reducing your plastic waste and ensuring safe, toxin-free products in your self-care routine, and you want a durable back scrubber that's long enough to reach every part of your back and stays hygienic after frequent use.",
+        "attribute_wise_reasoning": "- Eco friendly: You want to reduce plastic waste, so you'll prefer a back scrubber made from sustainable materials.\n- Non toxic: You prioritize safe, toxin-free products for your self-care routine, so a non toxic scrubber is essential.\n- Easy clean: You want a product that stays hygienic after frequent use, so you'll need a scrubber that's easy to clean.",
+        "price_upper": 10.0,
+        "scenario_id": "beauty002"
+    }
+]
