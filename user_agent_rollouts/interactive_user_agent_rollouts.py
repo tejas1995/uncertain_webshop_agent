@@ -14,9 +14,9 @@ import argparse
 import string
 from tqdm import tqdm
 
-from agent import Agent
 from webshop_env import WebShopEnv
-from user_simulator import UserSimulator
+from agent import get_agent
+from user_simulator import get_user_simulator
 from eval_utils import WebShopLMEvaluator
 
 # First, set root logger to WARNING to suppress other modules
@@ -38,8 +38,10 @@ logger.addHandler(console_handler)
 def run_rollout(agent, env, user_simulator, evaluator, args):
     trajectory = []
     initial_user_message = user_simulator.get_user_utterance()
-    trajectory.append({"role": "user", "content": initial_user_message})
+    trajectory.append({"role": "user", "content": f"USER INITIAL INSTRUCTION: {initial_user_message}"})
     logger.info(f"Initial user message: {initial_user_message}")
+    reward = 0.0
+    info = None
 
     observation_instruction_text = env.get_instruction_text().replace("Instruction:", "Instruction:\n")
 
@@ -50,7 +52,7 @@ def run_rollout(agent, env, user_simulator, evaluator, args):
     while not done and num_environment_steps < args.max_steps:
         try:
             agent_output = agent.get_action(trajectory)
-            assert "ACTION:" in agent_output, "Agent response must contain an action."
+            assert "ACTION:" in agent_output, f"Agent response must contain an action. Agent output: {agent_output}"
             action = agent_output.split("ACTION:")[-1].replace("\n", "").strip()
             trajectory.append({"role": "assistant", "content": agent_output})
             logger.info(f"Action #{num_environment_steps}: {action}")
@@ -72,7 +74,19 @@ def run_rollout(agent, env, user_simulator, evaluator, args):
             print(str(e))
             # import pdb; pdb.set_trace()
             if num_errors >= 10:
-                return [], 0, {"num_environment_steps": 0, "llm_cost": 0, "trajectory_time": 0, "num_errors": num_errors}
+                return trajectory, 0, {
+                    "num_environment_steps": 0, 
+                    "llm_cost": 0, 
+                    "trajectory_time": 0, 
+                    "num_errors": num_errors, 
+                    "evaluator_reward": 0.0, 
+                    "task_completed": False,
+                    "agent_llm_cost": agent.llm_cost, 
+                    "user_llm_cost": user_simulator.llm_cost, 
+                    "total_llm_cost": agent.llm_cost + user_simulator.llm_cost,
+                    "num_user_utterances": len([x for x in user_simulator.trajectory if x["role"] == "assistant"]),
+                    "purchased_item": None,
+                }
             continue
 
     if info is None:
@@ -122,18 +136,19 @@ if __name__ == "__main__":
     parser.add_argument("--max_steps", type=int, default=20)
     parser.add_argument("--num_tasks", type=int, default=100)
     parser.add_argument("--evaluator_model_name", type=str, default="claude-3-7-sonnet-latest")
-    parser.add_argument("--rollout_save_dir", type=str, default="experiments/interactive_rollouts")
+    parser.add_argument("--rollout_save_dir", type=str, default="/data/env/lib/repos/tejas_srinivasan/webshop_experiments/interactive_rollouts")
     parser.add_argument("--experiment_name", type=str,  required=True)
     args = parser.parse_args()
 
+    # Load environment, agent, user simulator, and evaluator
     env = WebShopEnv(args)
     env.load_scenarios()
     with open(args.agent_config_file, "r") as f:
         agent_config = yaml.safe_load(f)
-    agent = Agent(agent_config, args)
+    agent = get_agent(agent_config, args)
     with open(args.user_config_file, "r") as f:
         user_config = yaml.safe_load(f)
-    user_simulator = UserSimulator(user_config, args)
+    user_simulator = get_user_simulator(user_config, args)
     evaluator = WebShopLMEvaluator(args.evaluator_model_name, args)
 
     if args.num_tasks > len(env.env.server.goals):
@@ -142,10 +157,10 @@ if __name__ == "__main__":
 
     rollouts = run_rollouts(agent, env, user_simulator, evaluator, args)
 
-    avg_reward = np.mean([rollout["reward"] for rollout in rollouts])
-    avg_evaluator_reward = np.mean([rollout["evaluator_reward"] for rollout in rollouts])
-    total_llm_cost = np.sum([rollout["info"]["total_llm_cost"] for rollout in rollouts])
-    total_time = np.sum([rollout["info"]["trajectory_time"] for rollout in rollouts])
+    avg_reward = np.mean([rollout["reward"] for rollout in rollouts]).astype(float)
+    avg_evaluator_reward = np.mean([rollout["evaluator_reward"] for rollout in rollouts]).astype(float)
+    total_llm_cost = np.sum([rollout["info"]["total_llm_cost"] for rollout in rollouts]).astype(float)
+    total_time = np.sum([rollout["info"]["trajectory_time"] for rollout in rollouts]).astype(float)
     avg_num_user_utterances = sum([rollout["info"]["num_user_utterances"] for rollout in rollouts]) / len(rollouts)
     logger.info(f"Average reward: {avg_reward:.4f}")
     logger.info(f"Average evaluator reward: {avg_evaluator_reward:.4f}")
@@ -155,11 +170,11 @@ if __name__ == "__main__":
 
     results_data = {
         "avg_reward": avg_reward,
+        "avg_evaluator_reward": avg_evaluator_reward,
         "num_perfect_rollouts": sum([rollout["reward"] == 1.0 for rollout in rollouts]),
         "num_total_failure_rollouts": sum([rollout["reward"] == 0.0 for rollout in rollouts]),
         "num_task_completed_rollouts": sum([rollout["info"]["task_completed"] for rollout in rollouts]),
         "avg_num_user_utterance": avg_num_user_utterances,
-        "user_plus_agent_llm_cost": total_llm_cost,
         "agent_llm_cost": sum([rollout["info"]["agent_llm_cost"] for rollout in rollouts]),
         "user_llm_cost": sum([rollout["info"]["user_llm_cost"] for rollout in rollouts]),
         "evaluator_llm_cost": evaluator.llm_cost,
@@ -168,10 +183,18 @@ if __name__ == "__main__":
         "rollouts": rollouts,
     }
 
-    os.makedirs(args.rollout_save_dir, exist_ok=True)
-    args.experiment_name = f"{args.experiment_name}-{args.num_tasks}tasks-{args.max_steps}maxsteps"
-    with open(os.path.join(args.rollout_save_dir, f"{args.experiment_name}.json"), "w") as f:
-        json.dump(results_data, f, indent=4)
-    logger.info(f"Results saved to {os.path.join(args.rollout_save_dir, f'{args.experiment_name}.json')}")
+    if args.num_tasks != len(env.env.server.goals):
+        args.experiment_name = f"{args.experiment_name}-{args.num_tasks}tasks-{args.max_steps}maxsteps"
+    else:
+        args.experiment_name = f"{args.experiment_name}-{args.max_steps}maxsteps"
+    out_filename = os.path.join(args.rollout_save_dir, f"{args.experiment_name}.json")
+    os.makedirs(os.path.dirname(out_filename), exist_ok=True)
+    try:
+        with open(out_filename, "w") as f:
+            json.dump(results_data, f, indent=4)
+        logger.info(f"Results saved to {out_filename}")
+    except Exception as e:
+        logger.error(f"Error saving results: {e}")
+        pdb.set_trace()
 
     pdb.set_trace()

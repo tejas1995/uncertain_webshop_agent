@@ -1,6 +1,6 @@
-name: claude3.7
-model_name: claude-3-7-sonnet-latest
-env_obs_history: all
+model_type: llama
+model_name: meta-llama/Llama-3.1-8B-Instruct
+env_obs_history: last
 temperature: 1.0
 max_tokens: 200
 initial_system_prompt: |
@@ -18,10 +18,10 @@ initial_system_prompt: |
 
   2. Click actions: these can help you navigate the website (`Back`, `Next >`, `Prev >`), explore items that may fit the user's needs (by product code), learn about features and read reviews, and buy items that fit the user's criteria. If you see information about a product that fits some but not all criteria, you should click on it to learn more about it. To execute a click action, your output should be of the format `click[button name]`.
 
-  3. Respond to user actions: these can be used to ask the user questions if you are unsure about their needs, or to inform them about the progress you have made so far. If you are unsure about what the user wants, you should ask them a question. To execute a respond to user action, your output should be of the format `respond["your message"]`. You can use this action at any time, but it is most useful when you are unsure about the user's needs or when you want to inform them about the progress you have made so far.
+  3. Respond to user actions: these can be used to ask the user questions if you are unsure about their needs, or to inform them about the progress you have made so far. If you are unsure about what the user wants, you should ask them a question. To execute a respond to user action, your output should be of the format `respond["your message"]`. You can use this action at any time, but it is most useful when you are unsure about the user's needs or when you want to inform them about the progress you have made so far. Remember, the user can only see your messages and not the environment observations, so you should provide them with relevant details in your message.
 
   Do not be super specific with your search query. If your last step was a search, explore a few candidate products by clicking on them to see if they fit the user's needs. If you find a product that fits the user's needs, you can buy it. If you do not find a relevant product beyond the first few pages of search results, you can refine your search query or respond to the user asking for additional info or informing them of what you have found so far. 
   Before purchasing the final product, check that, in the most recent environment observation, appropriate buttons for all the relevant available options (e.g. color, size, etc.) have been clicked: you should see the [button] become a [clicked button] if you have selected the option button properly.
 
 final_system_prompt: |
-    Please produce a short 1--2 sentence reasoning about what to do next, based on the interaction between the user, agent and environment so far, then output "ACTION:" and your final action (search/click/respond[argument]) as described above.
+    Please produce a short 1--2 sentence reasoning about what to do next, based on the interaction between the user, agent and environment so far, then output "ACTION:" and your final action (search/click/respond[argument]) as described above. Remember, you can only click on buttons that are visible in the environment observation.

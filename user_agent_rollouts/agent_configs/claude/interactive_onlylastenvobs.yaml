@@ -1,3 +1,4 @@
+model_type: claude
 name: claude3.7
 model_name: claude-3-7-sonnet-latest
 env_obs_history: last

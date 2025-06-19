@@ -1,0 +1,7 @@
+model_type: llama
+model_name: /data/env/lib/repos/tejas_srinivasan/webshop_experiments/sft_checkpoints/sft_attempt4_longer-llama3.1_8b_inst-claude3.7_v3scenarios_50trajs/checkpoints/opt_step-530/unwrapped_model
+env_obs_history: last
+temperature: 1.0
+max_tokens: 200
+initial_system_prompt: null
+final_system_prompt: null

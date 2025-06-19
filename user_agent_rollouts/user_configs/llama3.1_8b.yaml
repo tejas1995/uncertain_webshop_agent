@@ -1,6 +1,6 @@
-model_type: claude
-name: claude3.7
-model_name: claude-3-7-sonnet-latest
+model_type: llama
+name: llama3.1_8b
+model_name: meta-llama/Llama-3.1-8B-Instruct
 temperature: 1.0
 max_tokens: 200
 initial_system_prompt: |
